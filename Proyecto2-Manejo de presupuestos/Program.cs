@@ -12,6 +12,7 @@ namespace Proyecto2_Manejo_de_presupuestos
             builder.Services.AddControllersWithViews();
             builder.Services.AddTransient<IRepositorioTiposCuentas, RepositorioTiposCuentas>();
             builder.Services.AddTransient<IServicioUsuarios, ServicioUsuarios>();
+            builder.Services.AddTransient<IRepositorioCuentas, RepositorioCuentas>();
 
             var app = builder.Build();
 
