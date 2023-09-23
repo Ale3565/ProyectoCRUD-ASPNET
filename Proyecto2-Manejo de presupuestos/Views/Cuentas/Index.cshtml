@@ -1,6 +1,14 @@
 ﻿@model IEnumerable<IndiceCuentasViewModel>
 @{
     ViewData["Title"] = "Cuentas";
+    string formatearBalance(decimal balance)
+    {
+        return Math.Abs(balance).ToString("N");
+    }
+    string ObtenerClaseBalance( decimal balance)
+    {
+        return balance >= 0 ? "activo" : "pasivo";
+    }
 }
 
 <h1>Cuentas</h1>
@@ -11,15 +19,15 @@
             <strong>Activos</strong>
         </div>
         <div class="activo">
-            @Model.Where(x => x.Balance > 0).Sum(x => x.Balance)
+            @formatearBalance(Model.Where(x => x.Balance > 0).Sum(x => x.Balance))
         </div>
     </div>
     <div>
         <div>
             <strong>Pasivos</strong>
         </div>
-        <div>
-            @Model.Where(x => x.Balance < 0).Sum(x => x.Balance)
+        <div class="pasivo">
+            @formatearBalance(Model.Where(x => x.Balance < 0).Sum(x => x.Balance))
         </div>
     </div>
     <div>
@@ -27,9 +35,45 @@
             <strong>Total</strong>
         </div>
         <div>
-            @Model.Sum(x=>x.Balance)
+            @formatearBalance(Model.Sum(x=>x.Balance))
         </div>
 
     </div>
+</div>
 
+<div class="accordion-body acordeon-cuentas">
+    @foreach(var tipoCuenta in Model)
+    {
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="cabeceraUno">
+                @{
+                    var id = tipoCuenta.TipoCuenta.Replace(" ", "");
+                    var dataBSTarget = "#" + id;
+                    var claseTipoCuenta = ObtenerClaseBalance(tipoCuenta.Balance);
+                }
+                <button class="accordion-button" type="button" data-bs-toggler="collapse" data-bs-target="@dataBSTarget">
+                    <span class="me-3">
+                        <span><strong>@tipoCuenta.TipoCuenta</strong> </span>
+                        <span class="@claseTipoCuenta">@formatearBalance(tipoCuenta.Balance)</span>
+                    </span>
+                </button>
+            </h2>
+
+            <div id="@id" class="accordion-collapse collapse show">
+                <div>
+                    <ul class="list-group">
+                        @foreach(var cuenta in tipoCuenta.Cuentas)
+                        {
+                            var claseCuenta = ObtenerClaseBalance(cuenta.Balance);
+                            <li class="list-group-item">
+                                <span><strong>@cuenta.Nombre</strong></span>
+                                <span class="@claseCuenta">@formatearBalance(cuenta.Balance)</span>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+
+        </div> 
+    }
 </div>

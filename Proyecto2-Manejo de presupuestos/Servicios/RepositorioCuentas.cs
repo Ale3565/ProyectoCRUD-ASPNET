@@ -18,7 +18,7 @@ namespace Proyecto2_Manejo_de_presupuestos.Servicios
             connectionString = configuration.GetConnectionString("DefaultConnection");
             
         }
-
+         
         public async Task Crear(Cuenta cuenta)
         {
             using var connection = new SqlConnection(connectionString);

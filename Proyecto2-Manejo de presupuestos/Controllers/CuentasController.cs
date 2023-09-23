@@ -26,7 +26,7 @@ namespace Proyecto2_Manejo_de_presupuestos.Controllers
             var modelo = cuentasConTipoCuenta.GroupBy(x => x.TipoCuenta).Select(grupo => new IndiceCuentasViewModel
             {
                 TipoCuenta = grupo.Key,
-                Cuentas = grupo.AsEnumerable(),
+                Cuentas = grupo.AsEnumerable()
             }).ToList();
 
             return View(modelo);
