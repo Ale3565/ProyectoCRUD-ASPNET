@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400.074" height="156.32" viewBox="0 0 400.074 156.32">
+    <defs>
+        <filter id="Unión_186" width="95.251" height="64.878" x="106.161" y="34.045" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Elipse_569" width="21.547" height="21.546" x="140.573" y="88.583" filterUnits="userSpaceOnUse">
+            <feOffset dx="-1"/>
+            <feGaussianBlur result="blur-2" stdDeviation=".5"/>
+            <feFlood flood-color="#0043a0" flood-opacity=".463"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-3,.cls-6{fill:#006dff}.cls-6{font-size:20px;font-family:OpenSans-Semibold,Open Sans;font-weight:600}
+        </style>
+    </defs>
+    <g id="Grupo_11791" transform="translate(-262 -776.082)">
+        <path id="Rectángulo_2707" fill="#e5f0ff" d="M0 0H400.074V156.32H0z" transform="translate(262 776.082)"/>
+        <g id="Grupo_11490" transform="translate(293.794 811.427)">
+            <rect id="Rectángulo_2706" width="259.651" height="7.948" fill="#fff" rx="3.974" transform="translate(37.093 60.036)"/>
+            <rect id="Rectángulo_2718" width="84.784" height="7.948" class="cls-3" rx="3.974" transform="translate(37.093 60.036)"/>
+            <g id="Grupo_11346" transform="translate(80.667)">
+                <g filter="url(#Unión_186)" transform="translate(-112.46 -35.35)">
+                    <g id="Unión_186-2" fill="#fff" stroke="none">
+                        <path d="M40.222 52.354l-.112-.124-7.75-8.616H2c-1.185 0-2.15-.965-2.15-2.15V2C-.15.814.815-.15 2-.15h78.65c1.186 0 2.15.964 2.15 2.15v39.464c0 1.185-.964 2.15-2.15 2.15H48.083l-7.75 8.616-.111.124z" transform="translate(112.46 35.35)"/>
+                        <path fill="#cee3ff" d="M40.222 52.13l7.795-8.666H80.65c1.105 0 2-.895 2-2V2c0-1.104-.895-2-2-2H2C.897 0 0 .896 0 2v39.464c0 1.105.896 2 2 2h30.427l7.795 8.666m0 .448l-.223-.248-7.706-8.566H2c-1.269 0-2.301-1.032-2.301-2.3V2C-.3.732.732-.3 2-.3h78.65c1.269 0 2.3 1.032 2.3 2.3v39.464c0 1.268-1.031 2.3-2.3 2.3h-32.5l-7.705 8.566-.223.248z" transform="translate(112.46 35.35)"/>
+                    </g>
+                </g>
+                <text id="_320_" fill="#006dff" font-family="OpenSans-Bold, Open Sans" font-size="16px" font-weight="700" letter-spacing="0.1em" transform="translate(17.993 25.693)">
+                    <tspan x="0" y="0">320€</tspan>
+                </text>
+            </g>
+            <text id="_0_" class="cls-6" transform="translate(0 70.44)">
+                <tspan x="0" y="0">0€</tspan>
+            </text>
+            <text id="_999_" class="cls-6" transform="translate(304.692 70.44)">
+                <tspan x="0" y="0">999€</tspan>
+            </text>
+            <g filter="url(#Elipse_569)" transform="translate(-31.79 -35.35)">
+                <circle id="Elipse_569-2" cx="9.273" cy="9.273" r="9.273" class="cls-3" transform="translate(143.07 90.08)"/>
+            </g>
+        </g>
+    </g>
+</svg>

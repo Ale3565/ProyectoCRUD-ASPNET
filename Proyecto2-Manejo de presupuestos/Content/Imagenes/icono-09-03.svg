@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-2{fill:#83f0b7}.cls-4{fill:#545454}
+        </style>
+    </defs>
+    <g id="proyeccion" transform="translate(-1117 -537)">
+        <path id="Rectángulo_2814" fill="none" d="M0 0H40V40H0z" transform="translate(1117 537)"/>
+        <g id="Grupo_11891" transform="translate(1120.803 540.406)">
+            <path id="Rectángulo_2800" d="M0 0H30V18H0z" class="cls-2" transform="translate(1.197 3.594)"/>
+            <circle id="Elipse_585" cx="6" cy="6" r="6" fill="#fff" transform="translate(10.197 6.594)"/>
+            <path id="Trazado_11407" d="M28.291 27.361a.482.482 0 0 0 .238.058.53.53 0 0 0 .318-.106l4.239-3.179a.53.53 0 0 0 0-.848l-4.239-3.179a.531.531 0 0 0-.848.424v6.358a.53.53 0 0 0 .291.472z" class="cls-2" transform="translate(-13.922 -10.758)"/>
+            <rect id="Rectángulo_2801" width="32" height="3" class="cls-4" rx="1" transform="translate(.197 1.594)"/>
+            <rect id="Rectángulo_2802" width="32" height="3" class="cls-4" rx="1" transform="translate(.197 21.594)"/>
+            <path id="Trazado_11408" fill="#262626" d="M14.829 26.431A2.649 2.649 0 0 0 16.9 28.5v2.268a1.59 1.59 0 1 0 1.06 0V28.5a2.649 2.649 0 0 0 2.066-2.066zm2.6 6.358a.53.53 0 1 1 .53-.53.53.53 0 0 1-.533.53zm0-5.3a1.59 1.59 0 0 1-1.494-1.06h2.985a1.59 1.59 0 0 1-1.494 1.06z" transform="translate(-1.229 -1.822)"/>
+        </g>
+    </g>
+</svg>

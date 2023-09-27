@@ -1,0 +1,17 @@
+                  <svg  id="Layer_1" data-name="Layer 1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 105.82 94.53">
+                      <defs>
+                          <style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3{fill:url(#linear-gradient-3);}</style>
+                          <linearGradient id="linear-gradient" x1="24.75" y1="26.31" x2="-0.41" y2="56.29" gradientTransform="translate(-29.13 53.47) rotate(-90)" gradientUnits="userSpaceOnUse">
+                              <stop offset="0%" stop-color="#006dff">
+                                  <animate attributeName="stop-color" values="#006dff; #43d2f1; #006dff" dur="8s" repeatCount="indefinite"></animate>
+                              </stop>
+                              <stop offset="100%" stop-color="#43d2f1">
+                                  <animate attributeName="stop-color" values="#43d2f1; #006dff; #43d2f1" dur="8s" repeatCount="indefinite"></animate>
+                              </stop>
+                          </linearGradient>
+                          <linearGradient id="linear-gradient-2" x1="30.97" y1="41.77" x2="15.41" y2="60.31" gradientTransform="translate(-27.85 74.24) rotate(-90)" xlink:href="#linear-gradient"/>
+                          <linearGradient id="linear-gradient-3" x1="90.94" y1="-3.94" x2="14.88" y2="86.71" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#linear-gradient"/>
+                      </defs>
+                      <title>Smart TV</title>
+                      <rect class="cls-1" x="-12.43" y="38.21" width="49.2" height="6.19" rx="3.09" ry="3.09" transform="translate(53.47 29.13) rotate(90)"/><rect class="cls-2" x="8.34" y="47.95" width="29.72" height="6.19" rx="3.09" ry="3.09" transform="translate(74.24 27.85) rotate(90)"/><path class="cls-3" d="M103.47,7.29H2.35A2.36,2.36,0,0,0,0,9.64V73.13a2.36,2.36,0,0,0,2.35,2.35H50.56v7.05H28.22a2.35,2.35,0,0,0,0,4.7H77.6a2.35,2.35,0,0,0,0-4.7H55.26V75.48h48.21a2.36,2.36,0,0,0,2.35-2.35V9.64A2.36,2.36,0,0,0,103.47,7.29Zm-2.35,63.49H4.7V12h96.41Z"/>
+                  </svg>

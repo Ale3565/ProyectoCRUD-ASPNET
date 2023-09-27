@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="697" height="267.781" viewBox="0 0 697 267.781">
+    <defs>
+        <filter id="Unión_211" width="213.088" height="192.065" x="405.257" y="43.049" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Trazado_11449" width="282.783" height="487.672" x="78.935" y="26.836" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur-2" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <path id="Rectángulo_2820" fill="rgba(0,109,255,0.1)" d="M0 0H693V267H0z" transform="translate(0 .114)"/>
+        </clipPath>
+        <style>
+            .cls-10,.cls-6{fill:#fff}.cls-7{fill:#accfff}.cls-14{stroke:none}
+        </style>
+    </defs>
+    <g id="Grupo_11932" transform="translate(.194)">
+        <g id="Grupo_11782">
+            <path id="Trazado_11326" fill="#e5f0ff" d="M0 0h696.806v267.781H0z"/>
+            <g id="Enmascarar_grupo_31" clip-path="url(#clip-path)" transform="translate(-.194 .099)">
+                <g id="phone" transform="translate(84.935 27.738)">
+                    <path id="Trazado_11448" fill="#a0a7b9" d="M45.864 53.5A15.864 15.864 0 1 1 30 69.36 15.911 15.911 0 0 1 45.864 53.5z" transform="translate(89.527 399.038)"/>
+                    <g id="Grupo_11945" transform="translate(268.862 16.513)">
+                        <path id="Trazado_11456" fill="none" stroke="#006dff" stroke-dasharray="6 5" stroke-linecap="round" stroke-width="3px" d="M75.987.092H7.651" transform="translate(-7.651 88.554)"/>
+                        <g id="Grupo_11944" transform="translate(57.759)">
+                            <g filter="url(#Unión_211)" transform="translate(-411.56 -44.35)">
+                                <g id="Unión_211-2" class="cls-6">
+                                    <path d="M198.488 179.615H2c-1.186 0-2.15-.964-2.15-2.15V2C-.15.814.814-.15 2-.15h196.488c1.185 0 2.15.964 2.15 2.15v175.465c0 1.186-.965 2.15-2.15 2.15z" class="cls-14" transform="translate(411.56 44.35)"/>
+                                    <path fill="#98c4ff" d="M2 0C.895 0 0 .895 0 2v175.465c0 1.105.895 2 2 2h196.488c1.104 0 2-.895 2-2V2c0-1.105-.896-2-2-2H2m0-.3h196.488c1.268 0 2.3 1.032 2.3 2.3v175.465c0 1.269-1.032 2.3-2.3 2.3H2c-1.268 0-2.3-1.031-2.3-2.3V2C-.3.732.732-.3 2-.3z" transform="translate(411.56 44.35)"/>
+                                </g>
+                            </g>
+                            <rect id="Rectángulo_2818" width="163.254" height="11.456" class="cls-7" rx="2" transform="translate(18.276 17.186)"/>
+                            <rect id="Rectángulo_2819" width="163.254" height="11.456" class="cls-7" rx="2" transform="translate(18.276 40.099)"/>
+                            <text id="_-50_" fill="#accfff" font-family="OpenSans-Bold, Open Sans" font-size="18px" font-weight="700" letter-spacing="0.1em" transform="translate(18.275 82.012)">
+                                <tspan x="0" y="0">-50%</tspan>
+                            </text>
+                            <g id="Componente_14_11" transform="translate(18.65 118.363)">
+                                <g id="Unión_176" class="cls-6">
+                                    <path d="M135 44.5H-17c-3.033 0-5.5-2.467-5.5-5.5V4c0-3.032 2.467-5.5 5.5-5.5h152c3.033 0 5.5 2.468 5.5 5.5v35c0 3.033-2.467 5.5-5.5 5.5z" class="cls-14" transform="rotate(180 69.5 21.5)"/>
+                                    <path fill="#006dff" d="M-17 0c-2.21 0-4 1.791-4 4v35c0 2.21 1.79 4 4 4h152c2.21 0 4-1.79 4-4V4c0-2.209-1.79-4-4-4H-17m0-3h152c3.86 0 7 3.14 7 7v35c0 3.86-3.14 7-7 7H-17c-3.86 0-7-3.14-7-7V4c0-3.86 3.14-7 7-7z" transform="rotate(180 69.5 21.5)"/>
+                                </g>
+                                <text id="PAGAR_AHORA" fill="#006dff" font-family="OpenSans-Bold, Open Sans" font-size="17px" font-weight="700" letter-spacing="0.1em" transform="translate(10 28)">
+                                    <tspan x="0" y="0">PAGAR AHORA</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Grupo_11946">
+                        <g filter="url(#Trazado_11449)" transform="translate(-84.94 -27.84)">
+                            <path id="Trazado_11449-2" d="M284.783 428.1c0 26.16-20.309 47.563-45.131 47.563H59.131C34.309 475.668 14 454.264 14 428.1V47.559C14 21.4 34.309 0 59.131 0h180.522c24.822 0 45.131 21.4 45.131 47.563z" class="cls-7" transform="translate(70.94 27.84)"/>
+                        </g>
+                        <path id="Trazado_11450" d="M35.584 17.542A7.522 7.522 0 0 1 35.5 2.5h.083a7.522 7.522 0 0 1 0 15.044z" class="cls-10" transform="translate(77.468 16.321)"/>
+                        <path id="Trazado_11451" d="M61.087 17.542H38.522a7.522 7.522 0 0 1 0-15.044h22.565a7.522 7.522 0 1 1 0 15.044z" class="cls-10" transform="translate(96.87 16.321)"/>
+                        <path id="Trazado_11452" fill="#eef6ff" d="M16 7h240.7v369.006H16z" transform="translate(-.956 45.669)"/>
+                        <g id="Grupo_11942" transform="translate(31.216 83.622)">
+                            <rect id="Rectángulo_2814" width="211.029" height="89.355" class="cls-10" rx="1"/>
+                            <g id="Grupo_11941" transform="translate(8.909 9.447)">
+                                <g id="Grupo_11939" transform="translate(12.539 4.061)">
+                                    <rect id="Rectángulo_2815" width="106.49" height="10.864" class="cls-7" rx="5.432" transform="translate(69.552)"/>
+                                    <rect id="Rectángulo_2816" width="106.49" height="10.864" class="cls-7" rx="5.432" transform="translate(69.552 19.011)"/>
+                                    <rect id="Rectángulo_2817" width="82.047" height="10.864" class="cls-7" rx="5.432" transform="translate(69.552 38.023)"/>
+                                </g>
+                                <g id="Grupo_11940">
+                                    <path id="ic_check_circle_24px" fill="#006dff" d="M38.637 2a36.637 36.637 0 1 0 36.637 36.637A36.65 36.65 0 0 0 38.637 2z" transform="translate(-2 -2)"/>
+                                    <g id="Capa_2" transform="translate(15.657 17.901)">
+                                        <g id="Capa_1">
+                                            <path id="Trazado_11454" d="M8.5 80.359c-3.562-.245-6.1-2.759-7.823-6.12-1.478-2.9-.576-6.1 2.042-8.725q4.362-4.368 8.73-8.725c.183-.185.36-.375.558-.545a1.634 1.634 0 1 1 2.321 2.3c-.928 1.025-1.937 1.979-2.915 2.96-2.2 2.206-4.42 4.4-6.608 6.618a4.255 4.255 0 0 0-.112 6.347 17.152 17.152 0 0 0 1.385 1.369 4.2 4.2 0 0 0 6.151-.162q4.756-4.694 9.458-9.46c1.825-1.841 1.87-3.911.373-6.091a2.687 2.687 0 0 1-.357-2.086c.368-1.09 1.87-1.056 2.8-.057a7.352 7.352 0 0 1 .224 9.75c-3.5 3.768-7.212 7.353-10.9 10.952-1.296 1.234-3.001 1.664-5.327 1.675z" class="cls-10" transform="translate(.033 -41.187)"/>
+                                            <path id="Trazado_11455" d="M77.767 0c3.225 0 6.991 2.738 8.383 6.076 1.27 3.038.521 6.081-2.117 8.735q-4.464 4.454-8.9 8.918c-1.025 1.022-1.94 1.137-2.7.368s-.668-1.611.407-2.688c2.92-2.952 5.841-5.909 8.808-8.819 1.528-1.5 2.386-3.244 1.392-5.241-1.055-2.131-2.65-4.019-5.268-4.049a5.123 5.123 0 0 0-3.21 1.374c-3.252 3.048-6.373 6.237-9.489 9.429-1.825 1.867-1.888 3.953-.261 6.07.668.874.868 1.708 0 2.527-.769.72-1.684.537-2.581-.456a7.485 7.485 0 0 1 .076-9.966C65.7 8.764 69.2 5.333 72.677 1.893A6.9 6.9 0 0 1 77.767 0z" class="cls-10" transform="translate(-44.619)"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

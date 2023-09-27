@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="697.582" height="267.656" viewBox="0 0 697.582 267.656">
+    <defs>
+        <filter id="Trazado_11305" width="233.063" height="400.331" x="50.447" y="46.105" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_2712" width="297.26" height="345.129" x="377.791" y="45.665" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur-2" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <path id="Rectángulo_2691" fill="rgba(0,109,255,0.1)" d="M0 0H697.582V224.079H0z" transform="translate(0 70)"/>
+        </clipPath>
+        <style>
+            .cls-13,.cls-5{fill:#accfff}.cls-11,.cls-6{fill:#fff}.cls-16{fill:none}.cls-11{stroke-width:.3px;stroke:#cee3ff}.cls-12{fill:#accffd;opacity:.202}.cls-13{opacity:.4}.cls-15{stroke:none}
+        </style>
+    </defs>
+    <g id="Grupo_11931" transform="translate(.776 .937)">
+        <g id="Grupo_11782">
+            <path id="Trazado_11326" fill="#e5f0ff" d="M0 0h696.806v267H0z" transform="translate(0 -.437)"/>
+            <g id="Grupo_11947" transform="translate(178.767 -18)">
+                <g id="Enmascarar_grupo_15" clip-path="url(#clip-path)" transform="translate(-179.543 -9.359)">
+                    <g id="phone" transform="translate(56.447 73.528)">
+                        <path id="Trazado_11304" fill="#a0a7b9" d="M42.951 53.5A12.951 12.951 0 1 1 30 66.447 12.99 12.99 0 0 1 42.951 53.5z" transform="translate(67.58 315.946)"/>
+                        <g id="Grupo_11413">
+                            <g filter="url(#Trazado_11305)" transform="translate(-56.45 -47.1)">
+                                <path id="Trazado_11305-2" d="M235.063 349.5c0 21.356-16.58 38.83-36.844 38.83H50.844C30.58 388.327 14 370.853 14 349.5V38.826C14 17.469 30.58 0 50.844 0h147.375c20.264 0 36.844 17.473 36.844 38.83z" class="cls-5" transform="translate(42.45 47.11)"/>
+                            </g>
+                            <path id="Trazado_11306" d="M34.2 14.779A6.141 6.141 0 0 1 34.129 2.5h.071a6.141 6.141 0 0 1 0 12.281z" class="cls-6" transform="translate(58.098 12.866)"/>
+                            <path id="Trazado_11307" d="M55.563 14.779H37.141a6.141 6.141 0 0 1 0-12.281h18.422a6.141 6.141 0 1 1 0 12.281z" class="cls-6" transform="translate(73.391 12.866)"/>
+                            <path id="Trazado_11308" fill="#eef6ff" d="M16 7h196.5v301.25H16z" transform="translate(-3.719 35.999)"/>
+                            <g id="Grupo_11418" transform="translate(66.325 72.135)">
+                                <path id="ic_check_circle_24px" fill="#006dff" d="M45.106 2a43.106 43.106 0 1 0 43.106 43.106A43.122 43.122 0 0 0 45.106 2z" transform="translate(-2 -2)"/>
+                                <path id="Icon_feather-check" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8px" d="M48.571 9L19.3 38.268 6 24.964" transform="translate(16.817 19.472)"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Grupo_11957" transform="translate(383.791 73.087)">
+                        <g filter="url(#Rectángulo_2712)" transform="translate(-383.79 -46.66)">
+                            <g id="Rectángulo_2712-2" fill="#eef6ff" stroke="#98c4ff" stroke-width="0.3px" transform="translate(383.79 46.66)">
+                                <rect width="285.26" height="333.129" class="cls-15" rx="2"/>
+                                <rect width="284.96" height="332.829" x=".15" y=".15" class="cls-16" rx="1.85"/>
+                            </g>
+                        </g>
+                        <g id="Grupo_11955" transform="translate(13.988 209.035)">
+                            <g id="Rectángulo_2669" class="cls-11">
+                                <path d="M0 0H257.283V101.862H0z" class="cls-15"/>
+                                <path d="M0.15 0.15H257.133V101.712H0.15z" class="cls-16"/>
+                            </g>
+                            <rect id="Rectángulo_2671" width="63.142" height="7.286" class="cls-5" rx="3.643" transform="translate(24.162 19.077)"/>
+                            <path id="Rectángulo_2672" d="M0 0H210.069V25.5H0z" class="cls-12" transform="translate(24.162 32.434)"/>
+                            <path id="Rectángulo_2822" d="M0 0H210.069V25.5H0z" class="cls-12" transform="translate(24.162 63.551)"/>
+                        </g>
+                        <g id="Grupo_11531" transform="translate(13.988 15.793)">
+                            <g id="Rectángulo_2670" class="cls-11">
+                                <path d="M0 0H257.283V231.533H0z" class="cls-15"/>
+                                <path d="M0.15 0.15H257.133V231.383H0.15z" class="cls-16"/>
+                            </g>
+                            <g id="Grupo_11399" transform="translate(22.933 22.858)">
+                                <rect id="Rectángulo_2673" width="165.139" height="6.994" class="cls-5" rx="3.497" transform="translate(1.548)"/>
+                                <rect id="Rectángulo_2676" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 56.455)"/>
+                                <rect id="Rectángulo_2829" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 56.455)"/>
+                                <rect id="Rectángulo_2823" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 100.455)"/>
+                                <rect id="Rectángulo_2830" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 100.455)"/>
+                                <rect id="Rectángulo_2826" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 144.455)"/>
+                                <rect id="Rectángulo_2838" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 159.455)"/>
+                                <rect id="Rectángulo_2840" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 174.455)"/>
+                                <rect id="Rectángulo_2831" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 144.455)"/>
+                                <rect id="Rectángulo_2839" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 159.455)"/>
+                                <rect id="Rectángulo_2841" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 174.455)"/>
+                                <rect id="Rectángulo_2677" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 41.674)"/>
+                                <rect id="Rectángulo_2832" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 41.674)"/>
+                                <rect id="Rectángulo_2824" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 85.674)"/>
+                                <rect id="Rectángulo_2833" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 85.674)"/>
+                                <rect id="Rectángulo_2827" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 129.674)"/>
+                                <rect id="Rectángulo_2834" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 129.674)"/>
+                                <rect id="Rectángulo_2678" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 26.893)"/>
+                                <rect id="Rectángulo_2835" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 26.893)"/>
+                                <rect id="Rectángulo_2825" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 70.893)"/>
+                                <rect id="Rectángulo_2836" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 70.893)"/>
+                                <rect id="Rectángulo_2828" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(19.034 114.893)"/>
+                                <rect id="Rectángulo_2837" width="74.212" height="6.994" class="cls-13" rx="3.497" transform="translate(137.034 114.893)"/>
+                                <circle id="Elipse_565" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 25.6)"/>
+                                <circle id="Elipse_607" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 25.6)"/>
+                                <circle id="Elipse_601" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 69.6)"/>
+                                <circle id="Elipse_608" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 69.6)"/>
+                                <circle id="Elipse_604" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 113.6)"/>
+                                <circle id="Elipse_609" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 113.6)"/>
+                                <circle id="Elipse_566" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 40.141)"/>
+                                <circle id="Elipse_610" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 40.141)"/>
+                                <circle id="Elipse_602" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 84.141)"/>
+                                <circle id="Elipse_611" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 84.141)"/>
+                                <circle id="Elipse_605" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 128.141)"/>
+                                <circle id="Elipse_612" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 128.141)"/>
+                                <circle id="Elipse_567" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 54.683)"/>
+                                <circle id="Elipse_613" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 54.683)"/>
+                                <circle id="Elipse_603" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 98.683)"/>
+                                <circle id="Elipse_614" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 98.683)"/>
+                                <circle id="Elipse_606" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 142.683)"/>
+                                <circle id="Elipse_616" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 157.683)"/>
+                                <circle id="Elipse_618" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(0 172.683)"/>
+                                <circle id="Elipse_615" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 142.683)"/>
+                                <circle id="Elipse_617" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 157.683)"/>
+                                <circle id="Elipse_619" cx="5.034" cy="5.034" r="5.034" class="cls-13" transform="translate(118 172.683)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path id="Línea_328" fill="none" stroke="#fff" stroke-width="8px" d="M0 0L0 267" transform="translate(347.374 -.937)"/>
+        </g>
+    </g>
+</svg>

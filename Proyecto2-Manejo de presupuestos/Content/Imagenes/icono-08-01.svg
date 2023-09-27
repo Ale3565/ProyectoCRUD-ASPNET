@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.528" height="32.735" viewBox="0 0 35.528 32.735">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#4436c7"/>
+            <stop offset=".488" stop-color="#d91f5b"/>
+            <stop offset="1" stop-color="#f8b251"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="bubble_x1">
+        <g id="Grupo_11341">
+            <g id="Grupo_11340">
+                <path id="Trazado_11265" fill="url(#linear-gradient)" fill-rule="evenodd" d="M29.607 0H5.959A5.976 5.976 0 0 0 0 5.959v14.9a5.912 5.912 0 0 0 5.586 5.959h3.8c3.761 0 6.219 5.921 8.379 5.921 2.234 0 5.065-5.921 8.416-5.921h3.389a5.976 5.976 0 0 0 5.959-5.959v-14.9A5.92 5.92 0 0 0 29.607 0z"/>
+            </g>
+        </g>
+        <g id="Grupo_11525" transform="rotate(2 -130.235 272.11)">
+            <path id="Trazado_11267" d="M5.363 2.682A2.682 2.682 0 1 1 2.682 0a2.682 2.682 0 0 1 2.681 2.682z" class="cls-2" transform="translate(5.698 5.697)"/>
+            <path id="Trazado_11268" d="M5.866 0L4.332 1.676H1.676A1.681 1.681 0 0 0 0 3.352v10.056a1.681 1.681 0 0 0 1.676 1.676h13.408a1.681 1.681 0 0 0 1.676-1.676V3.352a1.681 1.681 0 0 0-1.676-1.676h-2.657L10.894 0zM8.38 12.57a4.19 4.19 0 1 1 4.19-4.19 4.192 4.192 0 0 1-4.19 4.19z" class="cls-2"/>
+        </g>
+    </g>
+</svg>

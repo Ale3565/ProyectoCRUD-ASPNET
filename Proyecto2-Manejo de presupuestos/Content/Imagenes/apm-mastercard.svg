@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="60.45" viewBox="0 0 93 60.45">
+    <g id="mastercard" transform="translate(.615)">
+        <g id="Grupo_35" data-name="Grupo 35" transform="translate(-.615)">
+            <path id="Rectangle-path" fill="#272622" d="M0 0H93V60.45H0z"/>
+            <g id="Group" transform="translate(17.67 12.322)">
+                <path id="Shape" fill="#f79e1b" d="M33.52.462a17.9 17.9 0 1 0-.232 35.8 18.061 18.061 0 0 0 17.9-17.9A17.568 17.568 0 0 0 33.52.462" transform="translate(6.703 -.462)"/>
+                <path id="Shape-2" fill="#eb001b" d="M18.672.462a17.9 17.9 0 1 0 0 35.8 18.109 18.109 0 0 0 18.135-17.9A17.961 17.961 0 0 0 18.672.462" data-name="Shape" transform="translate(-.769 -.462)"/>
+                <path id="Shape-3" fill="#ff5f00" d="M29.3 17.106a17.952 17.952 0 0 0-6.979-14.183 17.815 17.815 0 0 0-3.021 25.11 18.584 18.584 0 0 0 3.022 3.022A17.182 17.182 0 0 0 29.3 17.106" data-name="Shape" transform="translate(6.742 .797)"/>
+            </g>
+        </g>
+    </g>
+</svg>

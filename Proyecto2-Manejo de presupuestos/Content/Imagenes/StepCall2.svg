@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="696.964" height="267.118" viewBox="0 0 696.964 267.118">
+    <defs>
+        <clipPath id="clip-path">
+            <ellipse id="Elipse_598" cx="82.948" cy="83.382" class="cls-1" rx="82.948" ry="83.382"/>
+        </clipPath>
+        <filter id="Trazado_11500" width="36.641" height="39.15" x="235.123" y="194.956" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-1{fill:#e5f0ff}.cls-3{fill:#fff}.cls-7{fill:#263238}.cls-8{fill:#026dfa}.cls-9{fill:#006dff}.cls-12{fill:#fed080}.cls-13{fill:#f2f2f2}
+        </style>
+    </defs>
+    <g id="Grupo_11953" transform="translate(0 .118)">
+        <path id="Rectángulo_2270" d="M0 0H696.964V267H0z" class="cls-1"/>
+        <g id="Grupo_11542" transform="translate(293.889 88.349)">
+            <g id="Grupo_11405" transform="translate(-231.787 -38.349)">
+                <g id="_1028931" opacity="0.6">
+                    <ellipse id="Elipse_598-2" cx="82.948" cy="83.382" class="cls-3" rx="82.948" ry="83.382"/>
+                    <path id="Trazado_11458" d="M179.994 305.856l-27.164-3.475a6.681 6.681 0 0 1-5.83-6.626v-12.321h-19.626v12.321a6.681 6.681 0 0 1-5.833 6.626l-27.164 3.475a16.658 16.658 0 0 0-14.544 16.523v12.592a83.336 83.336 0 0 0 114.705 0v-12.592a16.658 16.658 0 0 0-14.544-16.523z" class="cls-1" transform="translate(-54.171 -191.259)"/>
+                    <path id="Trazado_11460" d="M210.4 192.269l-4.611 2.483a23.939 23.939 0 0 1-22.7 0l-4.611-2.483a26.288 26.288 0 0 1-13.825-23.145v-28.441h59.569v28.441a26.287 26.287 0 0 1-13.822 23.145z" class="cls-1" transform="translate(-111.376 -94.982)"/>
+                    <path id="Trazado_11461" d="M285.8 140.683h-29.848v56.929a23.923 23.923 0 0 0 11.41-2.86l4.611-2.483a26.287 26.287 0 0 0 13.827-23.145v-28.441z" class="cls-1" transform="translate(-172.952 -94.982)"/>
+                    <path id="Trazado_11462" fill="#accffd" d="M179.995 346.214L157 343.273a27.145 27.145 0 0 1-39.637 0l-22.99 2.941a16.658 16.658 0 0 0-14.544 16.523v12.592a83.336 83.336 0 0 0 114.705 0v-12.592a16.658 16.658 0 0 0-14.539-16.523z" transform="translate(-54.171 -231.617)"/>
+                    <path id="Trazado_11466" fill="#98c3ff" d="M219.629 97.44a33.94 33.94 0 1 0-67.879 0v25.033h6.075v-16.63c7.071-8.125 16.855-13.368 27.865-13.368s20.794 5.243 27.865 13.368v16.629h6.075z" transform="translate(-102.674 -42.927)"/>
+                    <path id="Trazado_11467" fill="#37474f" d="M217.419 109.406h-6.983V89.155a29.019 29.019 0 1 0-58.037 0v20.251h-6.983V89.155a36 36 0 0 1 72 0v20.251z" transform="translate(-98.402 -35.949)"/>
+                    <g id="Grupo_11948" transform="translate(78.904 17.204)">
+                        <path id="Trazado_11468" d="M255.968 53.153h-.016v6.983h.016a29.052 29.052 0 0 1 29.019 29.019v20.251h6.983V89.155a36.042 36.042 0 0 0-36.002-36.002z" class="cls-7" transform="translate(-251.856 -53.153)"/>
+                        <path id="Trazado_11469" d="M263.233 251.69H243.37v-6.983h19.863a12.972 12.972 0 0 0 12.958-12.958h6.983a19.964 19.964 0 0 1-19.941 19.941z" class="cls-7" transform="translate(-243.37 -173.605)"/>
+                    </g>
+                    <path id="Trazado_11470" d="M130.644 185.266h-7.635a10.21 10.21 0 0 1-10.21-10.21v-11.87a10.21 10.21 0 0 1 10.21-10.21h7.636v32.29z" class="cls-8" transform="translate(-76.403 -103.273)"/>
+                    <path id="Trazado_11471" d="M352.023 185.266h-7.636v-32.289h7.636a10.21 10.21 0 0 1 10.21 10.21v11.869a10.21 10.21 0 0 1-10.21 10.21z" class="cls-8" transform="translate(-232.596 -103.274)"/>
+                    <path id="Trazado_11472" d="M217.972 274.615h-8.225a7.371 7.371 0 0 1-7.371-7.371 7.371 7.371 0 0 1 7.371-7.371h8.225a7.371 7.371 0 0 1 7.371 7.371 7.371 7.371 0 0 1-7.371 7.371z" class="cls-9" transform="translate(-136.818 -175.369)"/>
+                </g>
+                <g id="_1028931-2" transform="translate(138.447)">
+                    <g id="Enmascarar_grupo_32" clip-path="url(#clip-path)">
+                        <g id="_1028936" transform="translate(0 .434)">
+                            <circle id="Elipse_599" cx="82.948" cy="82.948" r="82.948" class="cls-3"/>
+                            <path id="Trazado_11474" fill="#ffc776" d="M122.55 128.964l-22.714-2.984a5.687 5.687 0 0 1-4.877-5.69v-10.58H78.55v10.58a5.687 5.687 0 0 1-4.877 5.69l-22.714 2.984A14.181 14.181 0 0 0 38.8 143.153v20.96a79.074 79.074 0 0 0 95.915 0v-20.96a14.18 14.18 0 0 0-12.165-14.189z" transform="translate(-3.806 -14.42)"/>
+                            <path id="Trazado_11476" d="M106.95 103.823l-4.589 2.471a23.825 23.825 0 0 1-22.59 0l-4.589-2.471a26.163 26.163 0 0 1-13.759-23.036V52.481h59.286v28.306a26.162 26.162 0 0 1-13.759 23.036z" class="cls-12" transform="translate(-8.073 -6.898)"/>
+                            <path id="Trazado_11478" d="M124.808 131.5l-19.742-2.525a23.311 23.311 0 0 1-34.038 0L51.286 131.5A14.3 14.3 0 0 0 38.8 145.684v20.96a82.953 82.953 0 0 0 98.5 0v-20.96a14.3 14.3 0 0 0-12.492-14.184z" class="cls-13" transform="translate(-5.099 -16.951)"/>
+                            <path id="Trazado_11480" fill="#463810" d="M90.208 22.728A34.75 34.75 0 0 0 55.822 57.61v48.19l4.041-9.59a22.456 22.456 0 0 0 1.762-8.721V68.2C92.5 64.285 103.86 50.091 103.86 50.091a49.105 49.105 0 0 0 15.175 18.141v19.255a22.456 22.456 0 0 0 1.762 8.721l4.041 9.59V57.236a34.508 34.508 0 0 0-34.63-34.508z" transform="translate(-7.337 -2.987)"/>
+                        </g>
+                        <path id="Icon_map-volume-control-telephone" d="M21.006 6.057a4.238 4.238 0 0 1 0 5.394l2.071 1.7a6.941 6.941 0 0 0 0-8.8l-2.071 1.706zm6.659 12.015A13.4 13.4 0 0 0 27.679 0l-2.015 1.756a10.719 10.719 0 0 1-.03 14.56l2.03 1.756z" class="cls-9" transform="rotate(-90 47.517 28.768)"/>
+                        <path id="Trazado_11498" d="M28.7 0H10.087A3.219 3.219 0 0 0 6.87 3.223v37.784a3.219 3.219 0 0 0 3.217 3.219H28.7a3.222 3.222 0 0 0 3.22-3.219V3.223A3.224 3.224 0 0 0 28.7 0zm.8 35.833H9.283V5.437H29.5zM23.706 3.27h-8.627v-.94h8.629v.94zm3.694-.43a.825.825 0 1 1-.825-.824.825.825 0 0 1 .825.824zm-4.08 37.952h-7.857v-2.417h7.857z" class="cls-8" transform="translate(8.544 58.216)"/>
+                        <path id="Rectángulo_2845" d="M0 0H29V21H0z" class="cls-3" transform="translate(74.414 129.382)"/>
+                        <path id="Icon_metro-credit-card" d="M30.527 5.784H5.463a2.9 2.9 0 0 0-2.892 2.892v17.352a2.9 2.9 0 0 0 2.892 2.892h25.064a2.9 2.9 0 0 0 2.892-2.892V8.676a2.9 2.9 0 0 0-2.892-2.892zM5.463 7.712h25.064a.977.977 0 0 1 .964.964v2.892H4.5V8.676a.977.977 0 0 1 .964-.964zm25.064 19.28H5.463a.977.977 0 0 1-.964-.964v-8.676h26.992v8.676a.977.977 0 0 1-.964.964zm-24.1-5.784h1.928v3.856H6.427zm3.856 0h1.928v3.856h-1.928zm3.856 0h1.928v3.856h-1.928z" class="cls-8" transform="translate(70.763 122.523)"/>
+                        <g id="hand" transform="translate(40.025 -126.187)">
+                            <g filter="url(#Trazado_11500)" transform="translate(-240.58 76.07)">
+                                <path id="Trazado_11500-2" d="M14.106 319.165a1.527 1.527 0 0 0-2.086-.559l-7.708 4.45a1.529 1.529 0 0 0-.559 2.087l7.878 13.645a1.528 1.528 0 0 0 2.086.559l7.708-4.451a1.526 1.526 0 0 0 .559-2.086z" class="cls-13" transform="translate(240.58 -117.45)"/>
+                            </g>
+                            <path id="Trazado_11501" d="M176.494 275.065a2.3 2.3 0 0 0-3.206-.521l-9.594 6.913a5.79 5.79 0 0 1-.69.506 5.945 5.945 0 0 1-3.178.91h-7.849a1.639 1.639 0 1 1 0-3.277h8.395a2.172 2.172 0 0 0 2.17-2.263 2.206 2.206 0 0 0-2.222-2.081h-6.39a10.629 10.629 0 0 0-1.417-1.252 10.482 10.482 0 0 0-6.242-2.049 11.562 11.562 0 0 0-10 6.111l6.7 11.61h12.574a14.114 14.114 0 0 0 7.041-1.863 28.19 28.19 0 0 0 2.4-1.557c3.607-2.591 10.983-7.975 10.988-7.978a2.3 2.3 0 0 0 .52-3.209z" class="cls-12" transform="translate(-122.22)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path id="Línea_329" fill="none" stroke="#fff" stroke-width="8px" d="M0 0L0 267" transform="translate(436.532 -.118)"/>
+        <g id="Grupo_11954" transform="translate(509.13 50)">
+            <ellipse id="Elipse_600" cx="57.868" cy="58.171" fill="#006cff" rx="57.868" ry="58.171"/>
+            <path id="Icon_feather-check" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="13px" d="M61.378 9L23.306 47.072 6 29.767" transform="translate(24.18 30.211)"/>
+        </g>
+        <text id="PAGO_REALIZADO_CORRECTAMENTE" fill="#006dff" font-family="OpenSans-Bold, Open Sans" font-size="14px" font-weight="700" letter-spacing="0.05em" transform="translate(563.362 192.237)">
+            <tspan x="-65.513" y="0">PAGO REALIZADO</tspan><tspan x="-64.924" y="20">CORRECTAMENTE</tspan>
+        </text>
+    </g>
+</svg>

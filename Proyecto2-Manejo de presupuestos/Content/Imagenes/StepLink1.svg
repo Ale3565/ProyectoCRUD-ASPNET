@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="696.964" height="293.554" viewBox="0 0 696.964 293.554">
+    <defs>
+        <filter id="Rectángulo_2712" width="246.923" height="278.546" x="31.657" y="15.009" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-3{stroke-width:.3px}.cls-3,.cls-8{fill:#fff}.cls-3{stroke:#cee3ff}.cls-4,.cls-6{fill:#accfff}.cls-5{fill:#accffd;opacity:.202}.cls-6{opacity:.4}.cls-7{fill:#006dff}.cls-13{fill:none}.cls-12{stroke:none}
+        </style>
+    </defs>
+    <g id="Grupo_11777" transform="translate(.075 -21.525)">
+        <path id="Rectángulo_2270" fill="rgba(0,109,255,0.1)" d="M0 0H696.964V267.841H0z" transform="translate(-.075 21.525)"/>
+        <g id="Grupo_11398" transform="translate(37.582 37.534)">
+            <g filter="url(#Rectángulo_2712)" transform="translate(-37.66 -16.01)">
+                <g id="Rectángulo_2712-2" fill="#eef6ff" stroke="#98c4ff" stroke-width="0.3px" transform="translate(37.66 16.01)">
+                    <rect width="234.923" height="266.546" class="cls-12" rx="2"/>
+                    <rect width="234.623" height="266.246" x=".15" y=".15" class="cls-13" rx="1.85"/>
+                </g>
+            </g>
+            <g id="Grupo_11530" transform="translate(11.52 17.28)">
+                <g id="Rectángulo_2669" class="cls-3">
+                    <path d="M0 0H211.883V64.947H0z" class="cls-12"/>
+                    <path d="M0.15 0.15H211.733V64.79700000000001H0.15z" class="cls-13"/>
+                </g>
+                <rect id="Rectángulo_2671" width="52" height="6" class="cls-4" rx="3" transform="translate(19.898 15.711)"/>
+                <path id="Rectángulo_2672" d="M0 0H173V21H0z" class="cls-5" transform="translate(19.898 26.711)"/>
+            </g>
+            <g id="Grupo_11531" transform="translate(11.52 89.595)">
+                <g id="Rectángulo_2670" class="cls-3">
+                    <path d="M0 0H211.883V75.381H0z" class="cls-12"/>
+                    <path d="M0.15 0.15H211.733V75.23100000000001H0.15z" class="cls-13"/>
+                </g>
+                <g id="Grupo_11399" transform="translate(18.886 14.707)">
+                    <rect id="Rectángulo_2673" width="95.645" height="5.76" class="cls-4" rx="2.88" transform="translate(1.275)"/>
+                    <rect id="Rectángulo_2676" width="61.116" height="5.76" class="cls-6" rx="2.88" transform="translate(15.675 38.257)"/>
+                    <rect id="Rectángulo_2677" width="61.116" height="5.76" class="cls-6" rx="2.88" transform="translate(15.675 26.085)"/>
+                    <rect id="Rectángulo_2678" width="61.116" height="5.76" class="cls-6" rx="2.88" transform="translate(15.675 13.912)"/>
+                    <circle id="Elipse_565" cx="4.146" cy="4.146" r="4.146" class="cls-6" transform="translate(0 12.847)"/>
+                    <circle id="Elipse_566" cx="4.146" cy="4.146" r="4.146" class="cls-6" transform="translate(0 24.822)"/>
+                    <circle id="Elipse_567" cx="4.146" cy="4.146" r="4.146" class="cls-6" transform="translate(0 36.798)"/>
+                </g>
+            </g>
+            <g id="Grupo_11532" transform="translate(11.52 173.116)">
+                <g id="Rectángulo_2679" class="cls-3">
+                    <path d="M0 0H211.883V75.381H0z" class="cls-12"/>
+                    <path d="M0.15 0.15H211.733V75.23100000000001H0.15z" class="cls-13"/>
+                </g>
+                <rect id="Rectángulo_2680" width="52" height="6" class="cls-4" rx="3" transform="translate(19.898 14.875)"/>
+                <path id="Rectángulo_2681" d="M0 0H141V20H0z" class="cls-5" transform="translate(19.898 26.875)"/>
+                <path id="Rectángulo_2682" d="M0 0h62a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H0V0z" class="cls-7" transform="translate(129.898 26.875)"/>
+                <rect id="Rectángulo_2683" width="40.32" height="5.76" class="cls-8" rx="2" transform="translate(141.121 34.076)"/>
+            </g>
+        </g>
+        <g id="Grupo_11353" transform="translate(277.036 94.514)">
+            <g id="Grupo_11333" transform="translate(0 -14)">
+                <g id="Grupo_11328" transform="translate(0 28)">
+                    <path id="Trazado_11335" fill="none" stroke="#006dff" stroke-dasharray="6 5" stroke-linecap="round" stroke-width="3px" d="M293.453.092H7.651" transform="translate(-7.651 46.92)"/>
+                    <g id="Grupo_11477" transform="translate(290.715 7.512)">
+                        <path id="ic_check_circle_24px" d="M40.7 2a38.7 38.7 0 1 0 38.7 38.7A38.711 38.711 0 0 0 40.7 2z" class="cls-7" transform="translate(-2 -2)"/>
+                        <g id="Capa_2" transform="translate(16.537 18.907)">
+                            <g id="Capa_1">
+                                <path id="Trazado_2578" d="M8.98 81.744c-3.763-.259-6.445-2.911-8.263-6.464-1.562-3.063-.609-6.439 2.156-9.216q4.608-4.613 9.221-9.216c.193-.2.38-.4.589-.576a1.726 1.726 0 1 1 2.452 2.428c-.98 1.082-2.046 2.091-3.079 3.126-2.327 2.33-4.668 4.644-6.979 6.99a4.494 4.494 0 0 0-.118 6.7 18.122 18.122 0 0 0 1.462 1.446 4.438 4.438 0 0 0 6.5-.171q5.024-4.958 9.989-9.992c1.928-1.945 1.975-4.131.394-6.434a2.838 2.838 0 0 1-.377-2.2c.388-1.151 1.975-1.115 2.952-.061a7.765 7.765 0 0 1 .237 10.3c-3.7 3.98-7.618 7.767-11.518 11.568-1.361 1.307-3.162 1.761-5.618 1.772z" class="cls-8" transform="translate(.033 -40.371)"/>
+                                <path id="Trazado_2579" d="M78.745 0c3.407 0 7.384 2.892 8.854 6.417 1.341 3.209.551 6.423-2.236 9.227q-4.715 4.7-9.4 9.419c-1.082 1.08-2.049 1.2-2.848.388s-.705-1.7.43-2.84c3.085-3.118 6.169-6.241 9.3-9.315 1.614-1.584 2.52-3.426 1.471-5.536-1.116-2.249-2.801-4.243-5.566-4.27a5.411 5.411 0 0 0-3.39 1.451c-3.434 3.22-6.731 6.588-10.022 9.959-1.928 1.972-1.994 4.175-.275 6.412.705.923.917 1.8 0 2.669-.812.76-1.779.567-2.727-.482a7.906 7.906 0 0 1 .08-10.527C66 9.257 69.692 5.632 73.369 2a7.288 7.288 0 0 1 5.376-2z" class="cls-8" transform="translate(-43.733)"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Componente_14_59" transform="translate(75.171 24.512)">
+                        <g id="Unión_176" fill="#fff">
+                            <path d="M110 44.5H-17c-3.033 0-5.5-2.467-5.5-5.5V4c0-3.032 2.467-5.5 5.5-5.5h127c3.033 0 5.5 2.468 5.5 5.5v35c0 3.033-2.467 5.5-5.5 5.5z" class="cls-12" transform="rotate(180 57 21.5)"/>
+                            <path fill="#006dff" d="M-17 0c-2.21 0-4 1.791-4 4v35c0 2.21 1.79 4 4 4h127c2.21 0 4-1.79 4-4V4c0-2.209-1.79-4-4-4H-17m0-3h127c3.86 0 7 3.14 7 7v35c0 3.86-3.14 7-7 7H-17c-3.86 0-7-3.14-7-7V4c0-3.86 3.14-7 7-7z" transform="rotate(180 57 21.5)"/>
+                        </g>
+                        <text id="CREAR_LINK" fill="#006dff" font-family="OpenSans-Bold, Open Sans" font-size="17px" font-weight="700" letter-spacing="0.1em" transform="translate(10 28)">
+                            <tspan x="0" y="0">CREAR LINK</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

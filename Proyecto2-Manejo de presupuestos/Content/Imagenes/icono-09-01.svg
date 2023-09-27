@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40.288" viewBox="0 0 40 40.288">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#4436c7"/>
+            <stop offset=".488" stop-color="#d91f5b"/>
+            <stop offset="1" stop-color="#f8b251"/>
+        </linearGradient>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#57a4fb}.cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="folleto" transform="translate(-1117 -367)">
+        <path id="Rectángulo_2812" d="M0 0H40V40H0z" class="cls-1" transform="translate(1117 367)"/>
+        <g id="_3880074" transform="translate(1013 359.289)">
+            <g id="Grupo_11886" transform="translate(112.649 8.648)">
+                <path id="Trazado_11386" d="M136.224 16L120 21.192h16.224z" class="cls-2" transform="translate(-120 -16)"/>
+                <path id="Trazado_11387" d="M144 352h18.034v3.245H144z" class="cls-2" transform="translate(-142.053 -324.744)"/>
+            </g>
+            <g id="Grupo_11887" transform="translate(112 7.999)">
+                <path id="Rectángulo_2797" fill="url(#linear-gradient)" d="M0 0H23V34H0z" transform="translate(0 5.711)"/>
+                <path id="Trazado_11391" d="M134.581 13.16h-5.161V8.644a.645.645 0 0 0-.842-.615l-16.129 5.161a.645.645 0 0 0-.448.615v33.549a.645.645 0 0 0 .645.645h21.935a.645.645 0 0 0 .645-.645V13.805a.645.645 0 0 0-.645-.645zm-6.452-3.632v3.632h-11.351zm5.806 37.181H113.29v-12.9h20.645zm0-12.9H113.29V14.45h20.645z" class="cls-1" transform="translate(-112 -7.999)"/>
+                <path id="Trazado_11392" d="M153.7 408h-17.09a.65.65 0 0 0 0 1.3h17.09a.65.65 0 0 0 0-1.3z" class="cls-4" transform="translate(-133.604 -385.787)"/>
+                <path id="Trazado_11393" d="M148.08 432h-11.663c-.23 0-.417.291-.417.649s.186.649.417.649h11.663c.23 0 .417-.291.417-.649s-.187-.649-.417-.649z" class="cls-4" transform="translate(-130.696 -406.839)"/>
+                <path id="Rectángulo_2798" d="M0 0H17V9H0z" class="cls-4" transform="translate(3 8.711)"/>
+                <rect id="Rectángulo_2799" width="13" height="4" fill="#6920a7" rx="2" transform="translate(5 29.711)"/>
+            </g>
+        </g>
+    </g>
+</svg>

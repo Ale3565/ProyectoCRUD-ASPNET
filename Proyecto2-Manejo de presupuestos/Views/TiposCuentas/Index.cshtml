@@ -18,7 +18,7 @@
             <th>Nombre</th>
         </tr>
     </thead>
-    <tbody id="reordenable ">
+    <tbody id="reordenable">
         @foreach (var tipoCuenta in Model)
         {
             <tr>
@@ -58,7 +58,7 @@
                 }).get();
                 return ids;
             }
-            function enviarIdsAlBackend(ids) {
+            async function enviarIdsAlBackend(ids) {
                 var data = JSON.stringify(ids);
                 await fetch(urlOrdenar, {
                     method: 'POST',

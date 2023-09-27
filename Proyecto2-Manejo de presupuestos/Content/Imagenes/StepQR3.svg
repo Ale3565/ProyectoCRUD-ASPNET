@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Grupo_11798" width="693" height="267.139" viewBox="0 0 693 267.139">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectángulo_2656" d="M0 0H692.535V266.14H0z" class="cls-1"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectángulo_2684" fill="rgba(0,109,255,0.1)" d="M0 0H693V267H0z"/>
+        </clipPath>
+        <filter id="Unión_186" width="213.088" height="192.065" x="405.257" y="42.837" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Trazado_2591" width="282.783" height="487.672" x="78.935" y="26.624" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur-2" stdDeviation="2"/>
+            <feFlood flood-color="#006dff" flood-opacity=".102"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-1,.cls-8{fill:#fff}.cls-9{fill:#accfff}.cls-13{fill:#006dff}.cls-15{stroke:none}
+        </style>
+    </defs>
+    <g id="Grupo_11770" transform="translate(.355 1)">
+        <g id="Grupo_11349" clip-path="url(#clip-path)">
+            <path id="Rectángulo_2705" fill="#e5f0ff" d="M0 0H692.535V266.14H0z"/>
+        </g>
+    </g>
+    <g id="Grupo_11557">
+        <g id="Enmascarar_grupo_14" clip-path="url(#clip-path-2)">
+            <g id="phone" transform="translate(84.935 27.624)">
+                <path id="Trazado_2592" fill="#a0a7b9" d="M45.864 53.5A15.864 15.864 0 1 1 30 69.36 15.911 15.911 0 0 1 45.864 53.5z" transform="translate(89.527 399.038)"/>
+                <g id="Grupo_11407" transform="translate(268.862 16.513)">
+                    <path id="Trazado_11336" fill="none" stroke="#006dff" stroke-dasharray="6 5" stroke-linecap="round" stroke-width="3px" d="M75.987.092H7.651" transform="translate(-7.651 88.554)"/>
+                    <g id="Grupo_11346" transform="translate(57.759)">
+                        <g filter="url(#Unión_186)" transform="translate(-411.56 -44.14)">
+                            <g id="Unión_186-2" class="cls-8">
+                                <path d="M198.488 179.615H2c-1.186 0-2.15-.964-2.15-2.15V2C-.15.814.814-.15 2-.15h196.488c1.185 0 2.15.964 2.15 2.15v175.465c0 1.186-.965 2.15-2.15 2.15z" class="cls-15" transform="translate(411.56 44.14)"/>
+                                <path fill="#98c4ff" d="M2 0C.895 0 0 .895 0 2v175.465c0 1.105.895 2 2 2h196.488c1.104 0 2-.895 2-2V2c0-1.105-.896-2-2-2H2m0-.3h196.488c1.268 0 2.3 1.032 2.3 2.3v175.465c0 1.269-1.032 2.3-2.3 2.3H2c-1.268 0-2.3-1.031-2.3-2.3V2C-.3.732.732-.3 2-.3z" transform="translate(411.56 44.14)"/>
+                            </g>
+                        </g>
+                        <rect id="Rectángulo_2654" width="163.254" height="11.456" class="cls-9" rx="2" transform="translate(18.276 17.186)"/>
+                        <rect id="Rectángulo_2655" width="163.254" height="11.456" class="cls-9" rx="2" transform="translate(18.276 40.099)"/>
+                        <text id="_-50_" fill="#accfff" font-family="OpenSans-Bold, Open Sans" font-size="18px" font-weight="700" letter-spacing="0.1em" transform="translate(18.275 82.012)">
+                            <tspan x="0" y="0">-50%</tspan>
+                        </text>
+                        <g id="Componente_14_8" transform="translate(18.65 118.363)">
+                            <g id="Unión_176" class="cls-8">
+                                <path d="M135 44.5H-17c-3.033 0-5.5-2.467-5.5-5.5V4c0-3.032 2.467-5.5 5.5-5.5h152c3.033 0 5.5 2.468 5.5 5.5v35c0 3.033-2.467 5.5-5.5 5.5z" class="cls-15" transform="rotate(180 69.5 21.5)"/>
+                                <path fill="#006dff" d="M-17 0c-2.21 0-4 1.791-4 4v35c0 2.21 1.79 4 4 4h152c2.21 0 4-1.79 4-4V4c0-2.209-1.79-4-4-4H-17m0-3h152c3.86 0 7 3.14 7 7v35c0 3.86-3.14 7-7 7H-17c-3.86 0-7-3.14-7-7V4c0-3.86 3.14-7 7-7z" transform="rotate(180 69.5 21.5)"/>
+                            </g>
+                            <text id="PAGAR_AHORA" fill="#006dff" font-family="OpenSans-Bold, Open Sans" font-size="17px" font-weight="700" letter-spacing="0.1em" transform="translate(10 28)">
+                                <tspan x="0" y="0">PAGAR AHORA</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Grupo_11903">
+                    <g filter="url(#Trazado_2591)" transform="translate(-84.94 -27.62)">
+                        <path id="Trazado_2591-2" d="M284.783 428.1c0 26.16-20.309 47.563-45.131 47.563H59.131C34.309 475.668 14 454.264 14 428.1V47.559C14 21.4 34.309 0 59.131 0h180.522c24.822 0 45.131 21.4 45.131 47.563z" class="cls-9" transform="translate(70.94 27.63)"/>
+                    </g>
+                    <path id="Trazado_2593" d="M35.584 17.542A7.522 7.522 0 0 1 35.5 2.5h.083a7.522 7.522 0 0 1 0 15.044z" class="cls-1" transform="translate(77.468 16.321)"/>
+                    <path id="Trazado_2594" d="M61.087 17.542H38.522a7.522 7.522 0 0 1 0-15.044h22.565a7.522 7.522 0 1 1 0 15.044z" class="cls-1" transform="translate(96.87 16.321)"/>
+                    <path id="Trazado_2595" fill="#eef6ff" d="M16 7h240.7v369.006H16z" transform="translate(-.956 45.669)"/>
+                    <g id="Grupo_11903-2" transform="translate(22.231 74.401)">
+                        <path id="Trazado_11366" d="M16 7h190.855v312H16z" class="cls-1" transform="translate(.982 .151)"/>
+                        <g id="Icon_ionic-ios-qr-scanner" transform="translate(9.858)">
+                            <path id="Trazado_11358" d="M34.2 4.5H19.817A16.446 16.446 0 0 0 3.375 20.942v14.387a3.425 3.425 0 1 0 6.851 0V20.7a9.389 9.389 0 0 1 2.863-6.41 9.343 9.343 0 0 1 6.484-2.936H34.2a3.425 3.425 0 0 0 0-6.851z" class="cls-13" transform="translate(-3.375 -4.5)"/>
+                            <path id="Trazado_11359" d="M40.838 4.5H26.207a3.425 3.425 0 1 0 0 6.851h14.631a9.343 9.343 0 0 1 6.484 2.936 9.389 9.389 0 0 1 2.863 6.41v14.632a3.425 3.425 0 1 0 6.851 0V20.7A16.217 16.217 0 0 0 40.838 4.5z" class="cls-13" transform="translate(147.915 -4.5)"/>
+                            <path id="Trazado_11360" d="M34.2 49.06H19.572a9.343 9.343 0 0 1-6.484-2.936 9.389 9.389 0 0 1-2.863-6.41V25.082a3.425 3.425 0 1 0-6.851 0v14.631a16.217 16.217 0 0 0 16.2 16.2H34.2a3.425 3.425 0 0 0 0-6.851z" class="cls-13" transform="translate(-3.375 148.338)"/>
+                            <path id="Trazado_11361" d="M53.61 21.656a3.435 3.435 0 0 0-3.425 3.425v14.632a9.96 9.96 0 0 1-9.346 9.346H26.207a3.425 3.425 0 0 0 0 6.851h14.386a16.462 16.462 0 0 0 16.442-16.442V25.082a3.435 3.435 0 0 0-3.425-3.426z" class="cls-13" transform="translate(147.915 148.338)"/>
+                        </g>
+                        <path id="Icon_metro-qrcode" d="M49.6 11.334H11.977v37.625H49.6zm9.406-9.406v56.437H2.571V1.928zM21.383 20.74H40.2v18.813H21.383zm122.281-9.406h-37.625v37.625h37.625zm9.406-9.406v56.437H96.633V1.928h56.437zM115.445 20.74h18.812v18.813h-18.812zM49.6 105.4H11.977v37.625H49.6zm9.406-9.406v56.437H2.571V95.99zM21.383 114.8H40.2v18.812H21.383zM68.414 1.928h9.406v9.406h-9.406zm9.406 9.406h9.406v9.406H77.82zm-9.406 9.406h9.406v9.406h-9.406zm9.406 9.406h9.406v9.406H77.82zm-9.406 9.406h9.406v9.406h-9.406zm9.406 9.406h9.406v9.406H77.82zm-9.406 9.406h9.406v9.406h-9.406zm0 18.812h9.406v9.406h-9.406zm9.406 9.406h9.406v9.408H77.82zm-9.406 9.408h9.406v9.41h-9.406zm9.406 9.41h9.406v9.4H77.82zm-9.406 9.4h9.406v9.406h-9.406zm9.406 9.406h9.406v9.406H77.82zm-9.406 9.406h9.406v9.406h-9.406zm9.406 9.406h9.406v9.406H77.82zm65.843-65.843h9.406v9.406h-9.406zm-131.687 0h9.406v9.406h-9.405zm9.406-9.406h9.406v9.406h-9.405zm-18.812 0h9.406v9.406H2.571zm37.625 0H49.6v9.406h-9.4zm9.405 9.409h9.406v9.406H49.6zm9.406-9.406h9.406v9.406h-9.404zm28.219 9.406h9.406v9.406h-9.405zm9.406-9.406h9.406v9.406h-9.404zm9.406 9.406h9.406v9.406h-9.406zm9.406-9.406h9.406v9.406h-9.406zm9.406 9.406h9.406v9.406h-9.406zm9.406-9.406h9.406v9.406h-9.406zm9.406 28.219h9.406v9.409h-9.406zm-56.437 0h9.406v9.409h-9.403zm9.406-9.406h9.406v9.405h-9.403zm9.406 9.406h9.406v9.409h-9.406zm18.812 0h9.406v9.409h-9.406zm9.406-9.406h9.406v9.405h-9.406zm9.406 28.219h9.406v9.406h-9.406zm-56.437 0h9.406v9.406h-9.402zm9.406-9.406h9.406v9.402h-9.402zm18.812 0h9.406v9.402h-9.406zm9.406 9.406h9.406v9.406h-9.406zm9.406-9.406h9.406v9.402h-9.406zm9.406 28.219h9.406v9.406h-9.406zm-47.031-9.406h9.406v9.406h-9.401zm9.406 9.406h9.406v9.406h-9.406zm9.406-9.406h9.406v9.406h-9.406zm9.406 9.406h9.406v9.406h-9.406zm-28.219 9.406h9.406v9.406h-9.4zm18.812 0h9.406v9.406h-9.406zm18.812 0h9.406v9.406h-9.406z" class="cls-13" transform="translate(36.226 22.868)"/>
+                        <path id="Línea_297" fill="none" stroke="#ff8484" stroke-linecap="round" stroke-width="8px" d="M0 0L225.668 0" transform="translate(0 66.451)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

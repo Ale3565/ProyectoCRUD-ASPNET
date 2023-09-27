@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.664" height="110.014" viewBox="0 0 112.664 110.014">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#006dff"/>
+            <stop offset="1" stop-color="#43d2f1"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:url(#linear-gradient)}
+        </style>
+    </defs>
+    <g id="Grupo_11816" transform="translate(.154)">
+        <ellipse id="Elipse_19" cx="56.332" cy="55.007" fill="#fff" rx="56.332" ry="55.007" transform="translate(-.154)"/>
+        <g id="stack" transform="translate(13.945 1.561)">
+            <g id="Grupo_11837" transform="translate(0 18.288)">
+                <path id="Trazado_10156" d="M77.735 34.847L41.272 18.586a3.394 3.394 0 0 0-2.779 0L2.031 34.847a3.414 3.414 0 0 0-.215 6.129l36.461 19.445a3.42 3.42 0 0 0 3.216 0l36.463-19.445a3.411 3.411 0 0 0-.22-6.129z" class="cls-2" transform="translate(-.007 -18.288)"/>
+                <path id="Trazado_10157" d="M74.732 137.644l-34.857 18.595-34.852-18.595a3.414 3.414 0 0 0-3.214 6.025l36.461 19.45a3.422 3.422 0 0 0 3.216 0l36.463-19.45a3.415 3.415 0 0 0-3.216-6.025z" class="cls-2" transform="translate(0 -106.536)"/>
+                <path id="Trazado_10158" d="M74.732 189.314L39.875 207.9 5.023 189.314a3.413 3.413 0 1 0-3.214 6.023l36.461 19.444a3.408 3.408 0 0 0 3.216 0l36.463-19.444a3.414 3.414 0 1 0-3.216-6.023z" class="cls-2" transform="translate(0 -144.869)"/>
+            </g>
+        </g>
+    </g>
+</svg>

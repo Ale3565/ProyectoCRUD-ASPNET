@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-5{fill:#fff}
+        </style>
+    </defs>
+    <g id="qa" transform="translate(-.197 4.041)">
+        <path id="Rectángulo_2812" fill="none" d="M0 0H40V40H0z" transform="translate(.197 -4.041)"/>
+        <g id="Grupo_11935" transform="translate(-8.803 -23.892)">
+            <path id="Shape" fill="#fbbb2c" d="M24.53 48l-7.69 5.89a.518.518 0 0 1-.84-.41V48z"/>
+            <path id="Shape-2" fill="#f7e031" d="M36.88 46.61A2.066 2.066 0 0 1 34.93 48H15.07A2.074 2.074 0 0 1 13 45.93V33.07A2.074 2.074 0 0 1 15.07 31H21z"/>
+            <rect id="Rectangle-path" width="24" height="17" fill="#9fd32b" rx="2.07" transform="translate(21 27)"/>
+            <circle id="Oval" cx="1" cy="1" r="1" class="cls-5" transform="translate(32 39)"/>
+            <path id="Shape-3" d="M33 37a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1 1 1 0 1 0-.867-1.5 1 1 0 0 1-1.731-1A3 3 0 1 1 34 35.829V36a1 1 0 0 1-1 1z" class="cls-5"/>
+        </g>
+    </g>
+</svg>

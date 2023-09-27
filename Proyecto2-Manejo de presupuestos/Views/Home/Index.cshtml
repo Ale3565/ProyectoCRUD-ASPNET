@@ -2,106 +2,670 @@
     ViewData["Title"] = "Home Page";
 }
 
-@* <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div> *@
-<div class="container">
-    <!-- Header -->
-    <div class="row">
-        <div class="col-md-6">
-            <h1 class="display-4">The tree hills</h1>
-            <p class="lead">Clean Simple Web Design Company</p>
+
+<body>
+    <div class="notibar-container">
+        <div class="notibar-content">
+            <div class="notibar-text desktop">
+                Prueba ahora PAGOSEGURO 3 meses gratis. Crea una cuenta y empieza hoy mismo
+            </div>
+            <div class="notibar-text mobile">
+                Prueba ahora PAGOSEGURO 3 meses gratis
+            </div>
+            <div class="notibar-bottom">
+                <a href="" target="_blank">Crear cuenta</a>
+            </div>
+
         </div>
-        <div class="col-md-6">
-            <ul class="nav justify-content-end">
-                <li class="nav-item">
-                    <a class="nav-link" href="#">non trisque amet</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">morbi semper</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">hac habitasse</a>
-                </li>
+    </div>
+    <div class="page-wrapper page-wrapper--plataforma page-wrapper--plataforma-01 plataforma js-animate-el lazy"
+        title="PAYCOMET, plataforma de pagos">
+        <div class="page-wrapper--plataforma__header js-animate-el lazy"></div>
+
+        @* <div class="header-wrapper header-wrapper--page">
+            <header class="header js-animate-el">
+                <a href="" class="header__link">
+                    @* <img src="../img/logo-paycomet-bg.svg")" alt="" class="header__logo lazy"> 
+                    <img src="Content/imagenes/logo-paycomet-bg.svg")" alt="" class="header__logo lazy" />
+                    <img src="../img/sticky-logo.svg")" alt="" class="header__sticky-logo lazy">
+                </a>
+                <div class="header__menu is-visible">
+                    <div class="hamburger hamburger--spring js-toggle-menu">
+                        <div class="hamburger-box">
+                            <div class="hamburger-inner"></div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div class="overlay-menu"></div>
+            <div class="navigation-menu js-navigation">
+                <div class="navigation-wrapper">
+                    <nav class="navigation js-animate-el">
+                        <div class="navigation__item navigation__item--parent is-desktop">
+                            <a href="../plataforma-de-pagos.html" class="navigation__link">Plataforma de pagos</a>
+                            <span class="js-mobile-submenu"></span>
+                            <div class="navigation__submenu navigation__submenu--hidden">
+                                <a href="ecommerce.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--plataforma-1">Venta
+                                    Online</a>
+                                <a href="venta-telefonica.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--plataforma-2">Venta
+                                    Telefónica</a>
+                                <a href="venta-presencial.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--plataforma-3">Venta
+                                    Presencial</a>
+                                <a href="omnicanal.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--plataforma-4">Venta
+                                    Omnicanal</a>
+                            </div>
+                        </div>
+                        <div class="navigation__item navigation__item--parent navigation__item--col">
+                            <a href="../soluciones.html"
+                                class="navigation__link navigation__link--parent">Soluciones</a>
+                            <span class="js-mobile-submenu"></span>
+                            <div class="navigation__submenu navigation__submenu--col navigation__submenu--hidden">
+                                <a href="../tpv-virtual.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--tpv">TPV
+                                    Virtual</a>
+                                <a href="../marketplace.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--market">Marketplace</a>
+                                <a href="../escrow.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--escrow">Escrow</a>
+                                <a href="../reservas.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--proxy">Proxy
+                                    Reservas Hotel</a>
+                                <a href="../callcenter.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--ivr">Call
+                                    Center IVR</a>
+                                <a href="../call-tpv.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--paycall">Call
+                                    TPV</a>
+                                <a href="../pay-by-link.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--payby">PAY
+                                    by Link</a>
+                                <a href="../pay-by-qr.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--paybyqr">PAY
+                                    by QR</a>
+                                <a href="../datafono.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--col navigation__linksubmenu--tpvf">TPV
+                                    Físico</a>
+                            </div>
+                        </div>
+                        <div class="navigation__item navigation__item--parent is-desktop">
+                            <a href="../servicios.html" class="navigation__link">Servicios</a>
+                            <span class="js-mobile-submenu"></span>
+                            <div class="navigation__submenu navigation__submenu--hidden">
+                                <a href="../servicios/token.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--servicios-1">Tokenización</a>
+                                <a href="../servicios/suscripciones.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--servicios-2">Suscripciones</a>
+                                <a href="../servicios/fraude.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--servicios-3">Control del
+                                    fraude</a>
+                                <!-- <a href="https://www.paycomet.com/news/medios-de-pago-alternativos/" class="navigation__linksubmenu navigation__linksubmenu--servicios-4">Medios de pago</a> -->
+                                <a href="../servicios/soporte.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--servicios-5">Soporte
+                                    especializado</a>
+                                <a href="../servicios/panel-de-control.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--plataforma-4">Panel de
+                                    control</a>
+                            </div>
+                        </div>
+                        <div class="navigation__item">
+                            <a href="../metodos-de-pago.html" class="navigation__link">Métodos de pago</a>
+                        </div>
+                        <div class="navigation__item navigation__item--parent">
+                            <p class="navigation__link">Tarifas</p>
+                            <span class="js-mobile-submenu"></span>
+                            <div class="navigation__submenu navigation__submenu--hidden">
+                                <a href="../tarifas.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--servicios-4">Tarifas
+                                    PAYCOMET</a>
+                                <a href="../tarifas/metodos-de-pago.html"
+                                    class="navigation__linksubmenu navigation__linksubmenu--servicios-4 apm-rate">Tarifas
+                                    Métodos de pago</a>
+                            </div>
+                        </div>
+                        <div class="navigation__item navigation__item--parent is-desktop">
+                            <a href="../empresa.html" class="navigation__link">Empresa</a>
+                            <span class="js-mobile-submenu"></span>
+                            <div class="navigation__submenu navigation__submenu--hidden">
+                                <a href="../empresa.html"
+                                    class="navigation__linksubmenu  navigation__linksubmenu--empresa-0">Empresa</a>
+                                <a href="../news.html"
+                                    class="navigation__linksubmenu  navigation__linksubmenu--empresa-1">Blog</a>
+                                <a href="../contacto.html"
+                                    class="navigation__linksubmenu  navigation__linksubmenu--empresa-2">Contacto</a>
+                                <a href="../trabaja-con-nosotros.html"
+                                    class="navigation__linksubmenu  navigation__linksubmenu--empresa-3">Trabaja con
+                                    nosotros</a>
+                            </div>
+                        </div>
+                        <div class="navigation__item navigation__item--parent">
+                            <a href="https://docs.paycomet.com/es" target="_blank"
+                                class="navigation__link navigation__link--parent">Desarrolladores</a>
+                            <span class="js-mobile-submenu"></span>
+                            <div class="navigation__submenu navigation__submenu--hidden">
+                                <a href="https://docs.paycomet.com/es" target="_blank"
+                                    class="navigation__linksubmenu navigation__linksubmenu--smcol navigation__linksubmenu--developers-0">Desarrolladores</a>
+                                <a href="https://github.com/PAYCOMET" target="_blank"
+                                    class="navigation__linksubmenu navigation__linksubmenu--smcol navigation__linksubmenu--developers-1">Github</a>
+                                <a href="../demos.html" target="_blank"
+                                    class="navigation__linksubmenu navigation__linksubmenu--smcol navigation__linksubmenu--developers-2">Demos</a>
+                                <a href="https://dashboard.paycomet.com/cp_control/" target="_blank"
+                                    class="navigation__linksubmenu navigation__linksubmenu--smcol navigation__linksubmenu--developers-3">Help
+                                    Desk</a>
+                            </div>
+                        </div>
+                        <div class="navigation__item is-mobile">
+                            <a href="../news.html" class="navigation__link">Blog</a>
+                        </div>
+                    </nav>
+
+                    <div class="navigation-cta">
+                        <div class="icon-login js-animate-el">
+                            <a href="https://dashboard.paycomet.com/cp_control/" class="navigation__link">Login</a>
+                        </div>
+                        <div class="navigation__item login js-animate-el">
+                            <a href="https://dashboard.paycomet.com/cp_control/" class="navigation__link">Iniciar
+                                sesión</a>
+                        </div>
+                    </div>
+                    <div class="navigation-footer is-mobile">
+                        <nav class="navigation-footer__languages">
+                            <div class="target-menu-lang js-menu-lang" data-lang="es">es<span
+                                    class="icon-menu-lang"></span></div>
+                            <a class="option-lang" data-lang="en" href="../en.html">EN</a>
+                            <a class="option-lang" data-lang="es" href="../index.html">ES</a>
+                        </nav>
+                        <span class="navigation-footer__copy">PAYCOMET © 2023</span>
+                    </div>
+                </div>
+            </div>
+        </div >*@
+        <main>
+
+            <section class="cover cover--plataforma">
+
+                <div class="cover__text cover--plataforma__text">
+                    <article>
+                        <p class="cover__pre-title js-animate-el">Plataforma de pagos</p>
+                        <h1 class="subtitle cover--plataforma__title js-animate-el">Venta <strong>Online</strong> </h1>
+                        <p class="text js-animate-el">Pon tu ecommerce en órbita. Con PAYCOMET, tendrás la plataforma
+                            más completa para aceptar pagos. Integración rápida y ágil, múltiples métodos de pago
+                            disponibles y un avanzado sistema de fraude.</p>
+                        <div class="cover__ctas cover--plataforma__ctas">
+                            <div class="cta cta--medium cta--blue js-animate-el">
+                                <a href="#"
+                                    class="cover__cta-button cover--plataforma__cta-button">Contactar</a>
+                            </div>
+                            <div class="cta cta--medium cta--white js-animate-el">
+                                <a href="#"
+                                    class="cover__cta-button cover--plataforma__cta-button js-trigger-more">Saber
+                                    más</a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+
+                <div class="cover__image cover--plataforma__image js-animate-el">
+                    <picture>
+                        <source srcset="https://www.paycomet.com/img/hero-venta-online@2x.webp")"
+                            media="(min-width: 1280px)">
+                        <source srcset="https://www.paycomet.com/img/hero-venta-online.webp")"
+                            media="(min-width: 1024px)">
+                        <source srcset="https://www.paycomet.com/img/hero-venta-online-mobile.webp")" type="image/png">
+                        <img class="lazy" src="@Url.Content("~/Content/Imagenes/hero-venta-online-mobile.webp")" alt="">
+                        
+                    </picture>
+                </div>
+                <img class="cover--plataforma__hero cover--plataforma__hero--left is-desktop js-animate-el lazy"
+                     src="@Url.Content("~/Content/Imagenes/03-hero%402x.webp")" alt="">
+                <img class="cover--plataforma__hero cover--plataforma__hero--center is-desktop js-animate-el lazy"
+                     src="@Url.Content("~/Content/Imagenes/04-hero%402x.webp")" alt="">
+                <img class="cover--plataforma__hero cover--plataforma__hero--right is-desktop js-animate-el lazy"
+                     src="@Url.Content("~/Content/Imagenes/05-hero%402x.webp")" alt="">
+            </section>
+            <div class="cover cover--solutions ecommerce-module">
+                <div class="cover--solutions__image cover--ecommerce_module__image">
+
+                    <picture>
+                        <source srcset="https://www.paycomet.com/img/ecommerce-sub-cover@2x.webp")"
+                            media="(min-width: 1280px)">
+                        <source srcset="https://www.paycomet.com/img/ecommerce-sub-cover.webp")" type="image/png">
+                        <img class="lazy" src="../ecommerce-sub-cover.html" alt="">
+                    </picture>
+                </div>
+                <div class="cover__text cover--solutions__text first-section">
+                    <article>
+                        <h2 class="subtitle cover--solutions__title js-animate-el">Acepta pagos desde todas <strong>tus
+                                plataformas online</strong></h2>
+                        <p class="text js-animate-el">Ofrece a tus clientes la posibilidad de pagar online desde
+                            cualquier dispositivo. Nuestras soluciones están diseñadas para ayudarte a mejorar la
+                            conversión, optimizando la experiencia de usuario en el check out.</p>
+                    </article>
+                </div>
+            </div>
+            <div class="apm-module">
+                <h2 class="subtitle subtitle--after apm-carrusel"
+                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Una única plataforma,<br><strong>todos los
+                        métodos de pago</strong></h2>
+
+
+                @* <div class="swiper-container apm-swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/visa.html"><span
+                                            class="background-image visa" role="img"
+                                            aria-label="paycomet método de pago alternativo visa"></span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/mastercard.html"><span
+                                            class="background-image mastercard" role="img"
+                                            aria-label="paycomet método de pago alternativo mastercard"> </span></a>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/bizum.html"><span
+                                            class="background-image bizum" role="img"
+                                            aria-label="paycomet método de pago alternativo bizum"> </span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/klarna.html"><span
+                                            class="background-image klarna" role="img"
+                                            aria-label="paycomet método de pago alternativo klarna"> </span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/unionpay.html"><span
+                                            class="background-image unionPay" role="img"
+                                            aria-label="paycomet método de pago alternativo UnionPay"> </span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/paypal.html"><span
+                                            class="background-image paypal" role="img"
+                                            aria-label="paycomet método de pago alternativo PayPal"> </span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/instantcredit.html"><span
+                                            class="background-image instantcredit" role="img"
+                                            aria-label="paycomet método de pago alternativo instantcredit"> </span></a>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/trustly.html"><span
+                                            class="background-image trustly" role="img"
+                                            aria-label="paycomet método de pago alternativo trustly"> </span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/ideal.html"><span
+                                            class="background-image ideal" role="img"
+                                            aria-label="paycomet método de pago alternativo ideal"> </span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/giropay.html"><span
+                                            class="background-image giropay" role="img"
+                                            aria-label="paycomet método de pago alternativo giropay"> </span></a></div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/multibanco.html"><span
+                                            class="background-image multibanco" role="img"
+                                            aria-label="paycomet método de pago alternativo multibanco"> </span></a>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="swiper-slide image-card">
+                            <article>
+                                <div class="circle"><a href="../metodos-de-pago/sepa-direct-debit.html"><span
+                                            class="background-image sepa" role="img"
+                                            aria-label="paycomet método de pago alternativo sepa direct debit">
+                                        </span></a></div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination swiper-pagination--home-business"></div>
+                    <div class="swiper-button-prev swiper-button--home-business"></div>
+                    <div class="swiper-button-next swiper-button--home-business"></div>
+                </div> *@
+                <div class="cta cta--medium cta--blue js-animate-el"
+                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                    <a href="../metodos-de-pago.html" class="cover__cta-button cover--apm__cta-button">VER MÉTODOS DE
+                        PAGO</a>
+                </div>
+            </div>
+            <section class="cards cards--compact cards--plataforma cards--ecommerce">
+                <h2 class="subtitle subtitle--after cards--plataforma__title">Elige la solución que mejor<strong> se
+                        adapta a tu modelo de negocio</strong> </h2>
+                <a href="../tpv-virtual.html" class="cards__item">
+                    <article>
+                        <img class="cards__icon lazy" src="../img/P-02-01.svg")"
+                            alt="Icono Soluciones TPV Virtual PAYCOMET">
+                        <div class="cards__title">TPV Virtual</div>
+                        <div class="cards__content">
+                            <p>Vende online en todo el mundo. Ofrece a tus clientes una experiencia de pago fluida,
+                                rápida y segura. Mejora la fidelización y aumenta las ventas. Si tienes un ecommerce,
+                                esta es tu solución.</p>
+                        </div>
+                    </article>
+                </a>
+                <a href="../marketplace.html" class="cards__item">
+                    <article>
+                        <img class="cards__icon lazy" src="../img/home/icono-potencial-05.svg")"
+                            alt="Icono Soluciones Marketplace PAYCOMET">
+                        <div class="cards__title">Marketplace</div>
+                        <div class="cards__content">
+                            <p>Una solución innovadora para gestionar los pagos online en entornos marketplace. Procesa
+                                ventas multicarrito y distribuye los fondos de las transacciones entre los diferentes
+                                merchants.</p>
+                        </div>
+                    </article>
+                </a>
+                <a href="../escrow.html" class="cards__item">
+                    <article>
+                        <img class="cards__icon lazy" src="../img/home/icono-potencial-06.svg")"
+                            alt="Icono Soluciones Escrow PAYCOMET">
+                        <div class="cards__title">Escrow</div>
+                        <div class="cards__content">
+                            <p>Simplificamos la gestión de fondos, los pagos y los cobros entre los players de cualquier
+                                plataforma de servicios. Para modelos de negocio digitales.</p>
+                        </div>
+                    </article>
+                </a>
+                <a href="../pay-by-link.html" class="cards__item">
+                    <article>
+                        <img class="cards__icon lazy" src="../img/P-02-04.svg")"
+                            alt="Icono Soluciones PAY by Link PAYCOMET">
+                        <div class="cards__title">PAY by Link</div>
+                        <div class="cards__content">
+                            <p>Imagina dónde quieres vender, nosotros lo hacemos posible: genera un link de pago y
+                                compártelo con tu cliente por el canal que prefieras: en una campaña de marketing, en tu
+                                blog, por email o incluso redes sociales.</p>
+                        </div>
+                    </article>
+                </a>
+                <a href="../pay-by-qr.html" class="cards__item">
+                    <article>
+                        <img class="cards__icon lazy" src="@Url.Content("~/Content/Imagenes/home/icono-potencial-09.svg")"
+                            alt="Icono Soluciones PAY by QR PAYCOMET">
+                        <div class="cards__title">PAY by QR</div>
+                        <div class="cards__content">
+                            <p>Escanear y pagar, así de fácil. Crea un QR de pago y reprodúcelo en tu publicidad. Tu
+                                cliente podrá escanear el código y completar el pedido al momento, sin necesidad de
+                                entrar en tu web o acudir a tu establecimiento.</p>
+                        </div>
+                    </article>
+                </a>
+                <a href="../reservas.html" class="cards__item">
+                    <article>
+                        <img class="cards__icon lazy" src="@Url.Content("~/Content/Imagenes/home/icono-potencial-07.svg")"
+                            alt="Icono Soluciones Proxy Reservas Hotel PAYCOMET">
+                        <div class="cards__title">Proxy Reservas Hotel</div>
+                        <div class="cards__content">
+                            <p>Tokenización de tarjetas para reservas hoteleras: más seguridad para tu negocio, mejor
+                                experiencia de usuario para tus clientes. Integración con OTA&#039;s, PMS...</p>
+                        </div>
+                    </article>
+                </a>
+            </section>
+           @*  <section class="testimonials testimonials--plataforma video video--plataforma landing-rates home-rates">
+                <div class="video__background video--plataforma__background">
+                    <img class="landing-rates__img lazy" src="~/Content/Imagenes/bg-stars.webp" alt="Cielo nocturno estrellado" />
+                </div>
+                <div class="video__content">
+                    <div class="swiper-container swiper-container--testimonials">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide testimonials__slide">
+                                <img class="testimonials__brand lazy" src="~/Content/Imagenes/client-01.svg" alt="" />
+                                <div class="testimonials__testimonial">
+                                    <p class="testimonials__text">"Probamos varias plataformas de pago antes de PAYCOMET
+                                        y creemos que hemos dado con la solución definitiva, tanto por tecnología como
+                                        por servicio."</p>
+                                    <p class="testimonials__position">Dir. de Marketing y Alianzas de Negocio Digital de
+                                        Vocento</p>
+                                </div>
+                            </div>
+                           
+                    </div>
+                </div>
+            </section> *@
+            <section class="solutions solutions--plataforma">
+                <h2 class="subtitle solutions__title">
+                    Soluciones de pago para<strong> vender más y mejor</strong>
+                </h2>
+                <div class="solutions__grid">
+                    <div class="solution">
+                        <img src="@Url.Content("~/Content/Imagenes/02-01-01.svg")" alt="" class="solution__icon lazy">
+                        <h3 class="solution__title">100%<br>Customizable</h3>
+                    </div>
+                    <div class="solution">
+                        <img src="@Url.Content("~/Content/Imagenes/02-01-02.svg")" alt="" class="solution__icon lazy">
+                        <h3 class="solution__title">Soporte especializado</h3>
+                    </div>
+                    <div class="solution">
+                        <img src="@Url.Content("~/Content/Imagenes/02-01-03.svg")" alt="" class="solution__icon lazy">
+                        <h3 class="solution__title">Pensado por y<br> para desarrolladores</h3>
+                    </div>
+                    <div class="solution">
+                        <img src="@Url.Content("~/Content/Imagenes/02-01-04.svg")" alt="" class="solution__icon lazy">
+                        <h3 class="solution__title">Integración rápida y simple</h3>
+                    </div>
+                </div>
+            </section>
+            <div class="articulos-solutions-container">
+                <span class="js-animation-toggle" data-toggle="rates"></span>
+                <h2 class="subtitle subtitle--after cards-solutions-container__title"><strong>Artículos</strong>
+                    relacionados</h2>
+                <div class="swiper-container swiper-container--landing-cards cards">
+                    <div class="swiper-wrapper articles">
+                        <div class="swiper-slide cards__item article0">
+                            <a class="articleLink" href="#" target="_blank">
+                                <article>
+                                    <div class="cards__img"> <img class="lazy" src="#" alt=""> </div>
+                                    <div class="cards__date"></div>
+                                    <div class="cards__title"><a href="#"></a></div>
+                                    <div class="cards__content">
+                                        <p></p>
+                                    </div>
+                                    <div class="cards__categories"></div>
+                                </article>
+                            </a>
+                        </div>
+                        <div class="swiper-slide cards__item article1">
+                            <a class="articleLink" href="#" target="_blank">
+                                <article>
+                                    <div class="cards__img"> <img class="lazy" src="#" alt=""> </div>
+                                    <div class="cards__date"></div>
+                                    <div class="cards__title"><a href="#"></a></div>
+                                    <div class="cards__content">
+                                        <p></p>
+                                    </div>
+                                    <div class="cards__categories"></div>
+                                </article>
+                            </a>
+                        </div>
+                        <div class="swiper-slide cards__item article2">
+                            <a class="articleLink" href="#" target="_blank">
+                                <article>
+                                    <div class="cards__img"> <img class="lazy" src="#" alt=""> </div>
+                                    <div class="cards__date"></div>
+                                    <div class="cards__title"><a href="#"></a></div>
+                                    <div class="cards__content">
+                                        <p></p>
+                                    </div>
+                                    <div class="cards__categories"></div>
+                                </article>
+                            </a>
+                        </div>
+                        <div class="swiper-pagination swiper-pagination--landing-cards"></div>
+                    </div>
+                </div>
+
+        </main>
+        <div class="landing-contact">
+            <p class="landing-contact__element title">¿Estás listo para empezar?</p>
+            <p class="landing-contact__element">Contacta con nosotros o<span> crea una cuenta gratis</span> y empieza
+                hoy mismo</p>
+            <div class="landing-contact__ctas landing-contact__element">
+                <div class="cta cta--medium cta--blue js-show-suscribeform">
+                    <a id="cta_footer_contacto" href="../contacto.html">Contactar</a>
+                </div>
+                <div class="cta cta--medium cta--white js-show-suscribeform">
+                    <a id="cta_footer_prueba" href="../prueba-ahora.html">Prueba ahora</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <footer class="footer main-footer" id="footer">
+        <!-- footer bottom -->
+        <div class="main-footer__main">
+            <img src="@Url.Content("~/Content/Imagenes/logo-PAYCOMET-BSabadell__grey.svg")")" alt="" class="paycomet-footer-logo desktop lazy">
+        </div>
+
+        <div class="main-footer__top">
+            <div class="main-footer-sitemap">
+                <div class="main-footer-sitemap__column main-footer-sitemap__column--soluciones">
+                    <a class="footer-page" href="../soluciones.html">Soluciones</a>
+                    <a href="../tpv-virtual.html">TPV Virtual</a>
+                    <a href="../marketplace.html">Marketplace</a>
+                    <a href="../escrow.html">Escrow</a>
+                    <a href="../reservas.html">Proxy Reservas Hotel</a>
+                    <a href="../callcenter.html">Call Center IVR</a>
+                    <a href="../call-tpv.html">Call TPV</a>
+                    <a href="../pay-by-link.html">PAY by Link</a>
+                    <a href="../pay-by-qr.html">PAY by QR</a>
+                    <a href="../datafono.html">TPV Físico</a>
+                </div>
+                <div class="main-footer-sitemap__column main-footer-sitemap__column--tpv">
+                    <a href="../plataforma-de-pagos.html" class="footer-page">Plataforma de pagos</a>
+                    <a href="ecommerce.html">Ecommerce</a>
+                    <a href="venta-presencial.html">Venta Presencial</a>
+                    <a href="venta-telefonica.html">Venta Telefónica</a>
+                    <a href="omnicanal.html">Venta Omnicanal</a>
+                </div>
+                <div class="main-footer-sitemap__column main-footer-sitemap__column--servicios">
+                    <a href="../servicios.html" class="footer-page">Servicios</a>
+                    <a href="../servicios/token.html">Tokenización</a>
+                    <a href="../servicios/suscripciones.html">Suscripciones</a>
+                    <a href="../servicios/fraude.html">Control del fraude</a>
+                    <a href="../servicios/soporte.html">Soporte especializado</a>
+                    <a href="../servicios/panel-de-control.html">Panel de control</a>
+                </div>
+                <div class="main-footer-sitemap__column main-footer-sitemap__column--main-menu">
+                    <a href="../tarifas.html" class="footer-page">Tarifas</a>
+                    <a href="../metodos-de-pago.html" class="footer-page">Métodos de pago</a>
+                    <a href="https://docs.paycomet.com/es" target="_blank" class="footer-page">Desarrolladores</a>
+                    <a href="../news/glosario-indice/index.html" target="_blank" class="footer-page">Glosario</a>
+                    <a href="../news.html" class="footer-page">Blog</a>
+                    <a href="https://dashboard.paycomet.com/cp_control/" target="_blank" class="footer-page">Login</a>
+                    <a href="https://dashboard.paycomet.com/cp_control/" target="_blank" class="footer-page">Soporte</a>
+                    <a href="../contacto.html" class="footer-page">Contacto</a>
+                    <div class="main-footer-sitemap__languages">
+                        <a href="../en.html" class="main-footer-sitemap__languages-item--active">EN</a>
+                        <a href="../index.html" class="main-footer-sitemap__languages-item">ES</a>
+                    </div>
+                </div>
+            </div>
+            <div class="main-footer-logos">
+                <img src="@Url.Content("~/Content/Imagenes/PCI-logo-01.svg")" alt="" class="pci-logo lazy">
+                <img src="@Url.Content("~/Content/Imagenes/Banco-Espana-logo%402x.webp")" alt="" class="bce-logo lazy">
+            </div>
+            <img src="@Url.Content("~/Content/Imagenes/logo-PAYCOMET-BSabadell__grey.svg")" alt="" class="paycomet-footer-logo mobile lazy">
+            
+        </div>
+
+        <div class="main-footer__bottom">
+            <ul class="main-footer-social">
+                <li><a href="" target="_blank"
+                        class="main-footer-social__item main-footer-social__item--facebook">FB</a></li>
+                <li><a href="" target="_blank"
+                        class="main-footer-social__item main-footer-social__item--twitter">TW</a></li>
+                <li><a href="" target="_blank"
+                        class="main-footer-social__item main-footer-social__item--linkedin">IN</a></li>
+                <li><a href="" target="_blank"
+                        class="main-footer-social__item main-footer-social__item--youtube">YT</a></li>
             </ul>
+            <ul class="main-footer-menu">
+                <li class="main-footer-menu__item"><a class="main-footer-menu__link" href="../aviso-legal.html">Aviso
+                        legal</a></li>
+                <li class="main-footer-menu__item"><a class="main-footer-menu__link"
+                        href="../politica-de-privacidad.html">Política de Privacidad</a></li>
+                <li class="main-footer-menu__item"><a class="main-footer-menu__link"
+                        href="../politica-de-cookies.html">Cookies</a></li>
+                <li class="main-footer-menu__item"><a class="main-footer-menu__link"
+                        href="../condiciones-generales.html">Condiciones generales</a></li>
+                <li class="main-footer-menu__item"><a class="main-footer-menu__link"
+                        href="https://www.paycomet.com/sac">Atención al Cliente</a></li>
+            </ul>
+            <div class="main-footer-copy">
+                <p>PAYCOMET © 2023</p>
+            </div>
         </div>
-    </div>
+    </footer>
 
-    <!-- Content Section -->
-    <div class="row mt-5">
-        <div class="col-md-12">
-            <div class="alert alert-primary" role="alert">
-                <h2>Nam risus tortor, mattis ac sodales at, iaculis eget lorem.</h2>
-                <p>Mauris erat ligula, placerat sed eleifend quis, sodales sit amet elit. Aliquam ac libero quis lectus dictum lobortis eu auctor velit. Praesent ante lectus, sagittis sed lacinia venenatis, semper ut eros. Curabitur egestas urna bibendum nunc cursus euismod.</p>
-            </div>
-        </div>
-    </div>
 
-    <!-- Additional Blocks -->
-    <div class="row mt-5">
-        <div class="col-md-6">
-            <div class="alert alert-secondary" role="alert">
-                <span class="h3">Mauris erat ligula</span>
-                <h2>Placerat sed eleifend</h2>
-                <p>Sodales sit amet elit. Aliquam ac libero quis lectus dictum lobortis eu auctor velit. Praesent ante lectus, sagittis sed lacinia venenatis, semper ut eros. Curabitur egestas urna bibendum nunc cursus euismod. Mauris eleifend nulla nec erat lacinia cursus.</p>
-                <div class="bg-primary text-white p-2">Proin viverra<br /> odio et orci enim</div>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="alert alert-success" role="alert">
-                <div class="h3">Morbi semper mi <br /> sit amet</div>
-                <p>Sed augue nulla, fermentum ac ullamcorper a, hendrerit volutpat nibh. Integer imperdiet purus in augue scelerisque vitae pellentesque lectus hendrerit.</p>
-            </div>
-        </div>
-    </div>
 
-    <!-- Summary Block -->
-    <div class="row mt-5">
-        <div class="col-md-12">
-            <div class="bg-light p-3 rounded">
-                <div class="h3">Vestibulum sed felis</div>
-                <p>Ut ipsum ultricies ultrices et id sem. Mauris ornare ante ut velit ultrices at condimentum ligula suscipit.</p>
-            </div>
-            <div class="bg-light p-3 mt-3 rounded">
-                <div class="h3">Phasellus consequat</div>
-                <p>In sed dui eget augue interdum vestibulum. Quisque a tortor nisi, quis blandit nulla.</p>
-            </div>
-            <div class="bg-light p-3 mt-3 rounded">
-                <div class="h3">Integer nec diam lacus</div>
-                <p>Ut sapien lacus, mollis facilisis ullamcorper et, vulputate non mauris. Maecenas sollicitudin iaculis cursus.</p>
-            </div>
-        </div>
-    </div>
+   <script>
+        var technicalCookieName = "allow-technical-cookie";
+        var technicalCookieExpiration = "525600";
+        var analyticsCookieName = "allow-analytics-cookie";
+        var analyticsCookieExpiration = "525600";
+    </script>
+    <script src="../js/picturefill.min.js"></script>
+    <script src="./js/customJs/picturefill.min.js"></script>
+    <script src="../js/vendors.min.js"></script>
+    <script src="./js/customJs/vendors.min.js"></script>
+    <script src="../js/responsive.min.js"></script>
+    <script src="./js/customJs/responsive.min.js"></script>
+    <script src="../js/main.min3f0e.js?v1.2.38"></script>
+    <script src="./js/customJs/main.min3f0e.js?v1.2.38"></script>
+    <script src="../js/CustomEase.min.js"></script>
+    <script src="./js/customJs/CustomEase.min.js"></script>
+    <script src="../js/animations.min3f0e.js?v1.2.38"></script>
+    <script src="./js/customJs/animations.min3f0e.js?v1.2.38"></script>
+    <script src="../js/app.js"></script>
+    <script src="./js/customJs/app.js"></script>
+   
 
-    <!-- Blue Background Section -->
-    <div class="row mt-5 bg-primary text-white">
-        <div class="col-md-6">
-            <div class="bg-primary p-3 rounded">
-                <h2>Vivamus dapibus lorem</h2>
-                <p>Ac lacus lobortis eget suscipit ante imperdiet. Vivamus ac dui enim. Phasellus non ultrices velit. Nullam ultricies velit nec lacus porta a gravida erat lobortis. Mauris nunc sem, porta sit amet sagittis sed, consequat sed augue.</p>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="bg-primary p-3 rounded">
-                <h2>Vivamus dapibus lorem</h2>
-                <p>Ac lacus lobortis eget suscipit ante imperdiet. Vivamus ac dui enim. Phasellus non ultrices velit. Nullam ultricies velit nec lacus porta a gravida erat lobortis. Mauris nunc sem, porta sit amet sagittis sed, consequat sed augue.</p>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="bg-primary p-3 rounded mt-3">
-                <h2>Vivamus dapibus lorem</h2>
-                <p>Ac lacus lobortis eget suscipit ante imperdiet. Vivamus ac dui enim. Phasellus non ultrices velit. Nullam ultricies velit nec lacus porta a gravida erat lobortis. Mauris nunc sem, porta sit amet sagittis sed, consequat sed augue.</p>
-            </div>
-        </div>
-    </div>
+    <script src="../js/articulosRelacionados.js"></script>
+    <script>
+        var mySwiper = new Swiper('.apm-swiper', {
+            autoplay: {
+                delay: 1500,
+            },
+            loop: true,
+            loopedSlides: 8,
+            spaceBetween: 3,
+            width: 235,
+            height: 400,
+            loopFillGroupWithBlank: false,
+            slidesPerView: 1,
 
-    <!-- Footer -->
-    <div class="row mt-5">
-        <div class="col-md-12">
-            <div id="footer" class="text-center bg-light p-3">
-                <p><a href="">Terms</a> | <a href="">Site Map</a> | <a href="">More Info</a></p>
-            </div>
-        </div>
-    </div>
-</div>
+
+
+        });
+    </script>
+
+</body>
